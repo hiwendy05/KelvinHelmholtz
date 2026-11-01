@@ -1,0 +1,13 @@
+# Simulation binary outputs
+*.dbl
+
+# Simulation data directories
+data/
+output/
+restart_files/
+
+# Temporary files
+*.tmp
+*.log
+__pycache__/
+*.pyc

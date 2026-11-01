@@ -1,0 +1,22 @@
+# Simulation binary outputs
+*.dbl
+*.out
+
+# Simulation outputs
+**/data/
+**/output/
+**/restart_files/
+**/restart/
+
+# Compiled files
+*.o
+*.mod
+*.exe
+
+# Python temporary files
+__pycache__/
+*.pyc
+
+# Temporary files
+*.tmp
+*.log

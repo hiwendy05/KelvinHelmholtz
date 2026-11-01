@@ -1,0 +1,20 @@
+# Binary simulation outputs
+*.dbl
+
+# Simulation output directories
+data/
+output/
+restart_files/
+
+# Compiled Fortran files
+*.o
+*.mod
+*.exe
+
+# Python temporary files
+__pycache__/
+*.pyc
+
+# Temporary files
+*.tmp
+*.log

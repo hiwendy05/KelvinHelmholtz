@@ -1,4 +1,4 @@
-BNS merger event happens in the speed of approximately 0.1c sos we modify our VEL0 for a more realistic simulation.
+BNS merger event happens in the speed of approximately 0.1c sos we modify our VEL0 for a more suitable simulation for BNS mergers.
 
 [Boundary]
 

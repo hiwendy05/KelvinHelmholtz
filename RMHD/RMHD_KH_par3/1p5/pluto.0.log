@@ -1,0 +1,2076 @@
+> Writing file #1 (dbl) to disk...
+  [ 2.00 sec ]
+step:80; t = 1.0178e-01; dt = 1.7066e-03; 0.2 %
+         [Mach = 1.500016, NRiemann = 2]
+step:90; t = 1.1885e-01; dt = 1.7066e-03; 0.2 %
+         [Mach = 1.500018, NRiemann = 2]
+step:100; t = 1.3591e-01; dt = 1.7066e-03; 0.3 %
+          [Mach = 1.500019, NRiemann = 2]
+step:110; t = 1.5298e-01; dt = 1.7066e-03; 0.3 %
+          [Mach = 1.500021, NRiemann = 2]
+step:120; t = 1.7004e-01; dt = 1.7066e-03; 0.3 %
+          [Mach = 1.500022, NRiemann = 2]
+step:130; t = 1.8711e-01; dt = 1.7066e-03; 0.4 %
+          [Mach = 1.500023, NRiemann = 2]
+> Writing file #2 (dbl) to disk...
+  [ 1.00 sec ]
+step:140; t = 2.0418e-01; dt = 1.7066e-03; 0.4 %
+          [Mach = 1.500024, NRiemann = 2]
+step:180; t = 2.7244e-01; dt = 1.7066e-03; 0.5 %
+          [Mach = 1.500029, NRiemann = 2]
+step:190; t = 2.8951e-01; dt = 1.7066e-03; 0.6 %
+          [Mach = 1.500030, NRiemann = 2]
+step:270; t = 4.2603e-01; dt = 1.7066e-03; 0.9 %
+          [Mach = 1.500036, NRiemann = 2]
+step:280; t = 4.4310e-01; dt = 1.7066e-03; 0.9 %
+          [Mach = 1.500036, NRiemann = 2]
+step:290; t = 4.6017e-01; dt = 1.7066e-03; 0.9 %
+          [Mach = 1.500037, NRiemann = 2]
+step:300; t = 4.7723e-01; dt = 1.7066e-03; 1.0 %
+          [Mach = 1.500037, NRiemann = 2]
+step:310; t = 4.9430e-01; dt = 1.7066e-03; 1.0 %
+          [Mach = 1.500037, NRiemann = 2]
+> Writing file #5 (dbl) to disk...
+  [ 1.00 sec ]
+step:320; t = 5.1136e-01; dt = 1.7066e-03; 1.0 %
+          [Mach = 1.500038, NRiemann = 2]
+step:330; t = 5.2843e-01; dt = 1.7066e-03; 1.1 %
+          [Mach = 1.500038, NRiemann = 2]
+> Writing file #6 (dbl) to disk...
+  [ 1.00 sec ]
+step:380; t = 6.1376e-01; dt = 1.7066e-03; 1.2 %
+          [Mach = 1.500038, NRiemann = 2]
+step:390; t = 6.3083e-01; dt = 1.7066e-03; 1.3 %
+          [Mach = 1.500038, NRiemann = 2]
+step:400; t = 6.4789e-01; dt = 1.7066e-03; 1.3 %
+          [Mach = 1.500037, NRiemann = 2]
+step:430; t = 6.9909e-01; dt = 1.7066e-03; 1.4 %
+> Writing file #7 (dbl) to disk...
+  [ 1.00 sec ]
+          [Mach = 1.500037, NRiemann = 2]
+step:440; t = 7.1616e-01; dt = 1.7066e-03; 1.4 %
+          [Mach = 1.500037, NRiemann = 2]
+step:510; t = 8.3562e-01; dt = 1.7066e-03; 1.7 %
+          [Mach = 1.500035, NRiemann = 2]
+step:520; t = 8.5268e-01; dt = 1.7066e-03; 1.7 %
+          [Mach = 1.500034, NRiemann = 2]
+step:530; t = 8.6975e-01; dt = 1.7066e-03; 1.7 %
+          [Mach = 1.500034, NRiemann = 2]
+step:540; t = 8.8682e-01; dt = 1.7066e-03; 1.8 %
+          [Mach = 1.500034, NRiemann = 2]
+> Writing file #9 (dbl) to disk...
+  [ 1.00 sec ]
+step:550; t = 9.0388e-01; dt = 1.7066e-03; 1.8 %
+          [Mach = 1.500034, NRiemann = 2]
+step:560; t = 9.2095e-01; dt = 1.7066e-03; 1.8 %
+          [Mach = 1.500033, NRiemann = 2]
+> Writing file #10 (dbl) to disk...
+  [ 2.00 sec ]
+step:610; t = 1.0063e+00; dt = 1.7066e-03; 2.0 %
+          [Mach = 1.500032, NRiemann = 2]
+step:620; t = 1.0233e+00; dt = 1.7066e-03; 2.0 %
+          [Mach = 1.500032, NRiemann = 2]
+step:630; t = 1.0404e+00; dt = 1.7066e-03; 2.1 %
+          [Mach = 1.500032, NRiemann = 2]
+step:640; t = 1.0575e+00; dt = 1.7066e-03; 2.1 %
+          [Mach = 1.500031, NRiemann = 2]
+step:680; t = 1.1257e+00; dt = 1.7066e-03; 2.3 %
+          [Mach = 1.500031, NRiemann = 2]
+step:690; t = 1.1428e+00; dt = 1.7066e-03; 2.3 %
+          [Mach = 1.500030, NRiemann = 2]
+step:700; t = 1.1599e+00; dt = 1.7066e-03; 2.3 %
+          [Mach = 1.500030, NRiemann = 2]
+step:710; t = 1.1769e+00; dt = 1.7066e-03; 2.4 %
+          [Mach = 1.500030, NRiemann = 2]
+step:720; t = 1.1940e+00; dt = 1.7066e-03; 2.4 %
+          [Mach = 1.500030, NRiemann = 2]
+> Writing file #12 (dbl) to disk...
+  [ 0.00 sec ]
+step:730; t = 1.2111e+00; dt = 1.7066e-03; 2.4 %
+          [Mach = 1.500030, NRiemann = 2]
+step:740; t = 1.2281e+00; dt = 1.7066e-03; 2.5 %
+          [Mach = 1.500030, NRiemann = 2]
+step:750; t = 1.2452e+00; dt = 1.7066e-03; 2.5 %
+          [Mach = 1.500029, NRiemann = 2]
+step:760; t = 1.2623e+00; dt = 1.7066e-03; 2.5 %
+          [Mach = 1.500029, NRiemann = 2]
+step:770; t = 1.2793e+00; dt = 1.7066e-03; 2.6 %
+          [Mach = 1.500029, NRiemann = 2]
+step:780; t = 1.2964e+00; dt = 1.7066e-03; 2.6 %
+          [Mach = 1.500029, NRiemann = 2]
+> Writing file #13 (dbl) to disk...
+  [ 0.00 sec ]
+step:790; t = 1.3135e+00; dt = 1.7066e-03; 2.6 %
+          [Mach = 1.500029, NRiemann = 2]
+step:800; t = 1.3305e+00; dt = 1.7066e-03; 2.7 %
+          [Mach = 1.500029, NRiemann = 2]
+step:810; t = 1.3476e+00; dt = 1.7066e-03; 2.7 %
+          [Mach = 1.500028, NRiemann = 2]
+step:820; t = 1.3647e+00; dt = 1.7066e-03; 2.7 %
+          [Mach = 1.500028, NRiemann = 2]
+step:830; t = 1.3817e+00; dt = 1.7066e-03; 2.8 %
+          [Mach = 1.500028, NRiemann = 2]
+step:890; t = 1.4841e+00; dt = 1.7066e-03; 3.0 %
+          [Mach = 1.500027, NRiemann = 2]
+> Writing file #15 (dbl) to disk...
+  [ 1.00 sec ]
+step:900; t = 1.5012e+00; dt = 1.7066e-03; 3.0 %
+          [Mach = 1.500027, NRiemann = 2]
+step:910; t = 1.5183e+00; dt = 1.7066e-03; 3.0 %
+          [Mach = 1.500027, NRiemann = 2]
+step:920; t = 1.5353e+00; dt = 1.7066e-03; 3.1 %
+          [Mach = 1.500027, NRiemann = 2]
+step:930; t = 1.5524e+00; dt = 1.7066e-03; 3.1 %
+          [Mach = 1.500027, NRiemann = 2]
+step:940; t = 1.5695e+00; dt = 1.7066e-03; 3.1 %
+          [Mach = 1.500027, NRiemann = 2]
+step:950; t = 1.5865e+00; dt = 1.7066e-03; 3.2 %
+          [Mach = 1.500027, NRiemann = 2]
+step:1040; t = 1.7401e+00; dt = 1.7066e-03; 3.5 %
+           [Mach = 1.500026, NRiemann = 2]
+step:1050; t = 1.7572e+00; dt = 1.7066e-03; 3.5 %
+           [Mach = 1.500026, NRiemann = 2]
+step:1060; t = 1.7743e+00; dt = 1.7066e-03; 3.5 %
+           [Mach = 1.500026, NRiemann = 2]
+step:1070; t = 1.7913e+00; dt = 1.7066e-03; 3.6 %
+           [Mach = 1.500026, NRiemann = 2]
+> Writing file #18 (dbl) to disk...
+  [ 1.00 sec ]
+step:1080; t = 1.8084e+00; dt = 1.7066e-03; 3.6 %
+           [Mach = 1.500026, NRiemann = 2]
+step:1090; t = 1.8254e+00; dt = 1.7066e-03; 3.7 %
+           [Mach = 1.500026, NRiemann = 2]
+step:1100; t = 1.8425e+00; dt = 1.7066e-03; 3.7 %
+           [Mach = 1.500025, NRiemann = 2]
+step:1110; t = 1.8596e+00; dt = 1.7066e-03; 3.7 %
+           [Mach = 1.500025, NRiemann = 2]
+step:1120; t = 1.8766e+00; dt = 1.7066e-03; 3.8 %
+           [Mach = 1.500025, NRiemann = 2]
+step:1130; t = 1.8937e+00; dt = 1.7066e-03; 3.8 %
+           [Mach = 1.500025, NRiemann = 2]
+> Writing file #19 (dbl) to disk...
+  [ 1.00 sec ]
+step:1140; t = 1.9108e+00; dt = 1.7066e-03; 3.8 %
+           [Mach = 1.500025, NRiemann = 2]
+step:1250; t = 2.0985e+00; dt = 1.7066e-03; 4.2 %
+> Writing file #21 (dbl) to disk...
+  [ 1.00 sec ]
+           [Mach = 1.500024, NRiemann = 2]
+step:1260; t = 2.1156e+00; dt = 1.7066e-03; 4.2 %
+           [Mach = 1.500024, NRiemann = 2]
+step:1290; t = 2.1668e+00; dt = 1.7066e-03; 4.3 %
+           [Mach = 1.500024, NRiemann = 2]
+step:1300; t = 2.1838e+00; dt = 1.7066e-03; 4.4 %
+           [Mach = 1.500024, NRiemann = 2]
+> Writing file #22 (dbl) to disk...
+  [ 0.00 sec ]
+step:1310; t = 2.2009e+00; dt = 1.7066e-03; 4.4 %
+           [Mach = 1.500024, NRiemann = 2]
+step:1320; t = 2.2180e+00; dt = 1.7066e-03; 4.4 %
+           [Mach = 1.500024, NRiemann = 2]
+step:1330; t = 2.2350e+00; dt = 1.7066e-03; 4.5 %
+           [Mach = 1.500024, NRiemann = 2]
+step:1340; t = 2.2521e+00; dt = 1.7066e-03; 4.5 %
+           [Mach = 1.500024, NRiemann = 2]
+step:1350; t = 2.2692e+00; dt = 1.7066e-03; 4.5 %
+           [Mach = 1.500024, NRiemann = 2]
+step:1360; t = 2.2862e+00; dt = 1.7066e-03; 4.6 %
+           [Mach = 1.500024, NRiemann = 2]
+> Writing file #23 (dbl) to disk...
+  [ 1.00 sec ]
+step:1370; t = 2.3033e+00; dt = 1.7066e-03; 4.6 %
+           [Mach = 1.500024, NRiemann = 2]
+step:1380; t = 2.3204e+00; dt = 1.7066e-03; 4.6 %
+           [Mach = 1.500024, NRiemann = 2]
+step:1460; t = 2.4569e+00; dt = 1.7066e-03; 4.9 %
+           [Mach = 1.500023, NRiemann = 2]
+step:1470; t = 2.4740e+00; dt = 1.7066e-03; 4.9 %
+           [Mach = 1.500023, NRiemann = 2]
+step:1480; t = 2.4910e+00; dt = 1.7066e-03; 5.0 %
+           [Mach = 1.500023, NRiemann = 2]
+step:1510; t = 2.5422e+00; dt = 1.7066e-03; 5.1 %
+           [Mach = 1.500022, NRiemann = 2]
+step:1520; t = 2.5593e+00; dt = 1.7066e-03; 5.1 %
+           [Mach = 1.500022, NRiemann = 2]
+step:1530; t = 2.5764e+00; dt = 1.7066e-03; 5.2 %
+           [Mach = 1.500022, NRiemann = 2]
+step:1540; t = 2.5934e+00; dt = 1.7066e-03; 5.2 %
+           [Mach = 1.500022, NRiemann = 2]
+step:1600; t = 2.6958e+00; dt = 1.7066e-03; 5.4 %
+           [Mach = 1.500021, NRiemann = 2]
+step:1660; t = 2.7982e+00; dt = 1.7066e-03; 5.6 %
+           [Mach = 1.500020, NRiemann = 2]
+step:1880; t = 3.1737e+00; dt = 1.7066e-03; 6.3 %
+           [Mach = 1.500019, NRiemann = 2]
+step:1890; t = 3.1907e+00; dt = 1.7066e-03; 6.4 %
+           [Mach = 1.500019, NRiemann = 2]
+> Writing file #32 (dbl) to disk...
+  [ 1.00 sec ]
+step:1900; t = 3.2078e+00; dt = 1.7066e-03; 6.4 %
+           [Mach = 1.500020, NRiemann = 2]
+step:1910; t = 3.2249e+00; dt = 1.7066e-03; 6.4 %
+           [Mach = 1.500020, NRiemann = 2]
+step:1920; t = 3.2419e+00; dt = 1.7066e-03; 6.5 %
+           [Mach = 1.500020, NRiemann = 2]
+> Writing file #33 (dbl) to disk...
+  [ 1.00 sec ]
+step:1960; t = 3.3102e+00; dt = 1.7066e-03; 6.6 %
+           [Mach = 1.500021, NRiemann = 2]
+step:1970; t = 3.3273e+00; dt = 1.7066e-03; 6.7 %
+           [Mach = 1.500021, NRiemann = 2]
+step:1980; t = 3.3443e+00; dt = 1.7066e-03; 6.7 %
+           [Mach = 1.500021, NRiemann = 2]
+step:1990; t = 3.3614e+00; dt = 1.7066e-03; 6.7 %
+           [Mach = 1.500022, NRiemann = 2]
+step:2040; t = 3.4467e+00; dt = 1.7066e-03; 6.9 %
+           [Mach = 1.500022, NRiemann = 2]
+step:2050; t = 3.4638e+00; dt = 1.7066e-03; 6.9 %
+           [Mach = 1.500023, NRiemann = 2]
+step:2060; t = 3.4809e+00; dt = 1.7066e-03; 7.0 %
+           [Mach = 1.500023, NRiemann = 2]
+step:2070; t = 3.4979e+00; dt = 1.7066e-03; 7.0 %
+           [Mach = 1.500023, NRiemann = 2]
+step:2160; t = 3.6515e+00; dt = 1.7066e-03; 7.3 %
+           [Mach = 1.500024, NRiemann = 2]
+step:2170; t = 3.6686e+00; dt = 1.7066e-03; 7.3 %
+           [Mach = 1.500024, NRiemann = 2]
+step:2180; t = 3.6857e+00; dt = 1.7066e-03; 7.4 %
+           [Mach = 1.500024, NRiemann = 2]
+> Writing file #37 (dbl) to disk...
+  [ 1.00 sec ]
+step:2190; t = 3.7027e+00; dt = 1.7066e-03; 7.4 %
+           [Mach = 1.500024, NRiemann = 2]
+step:2200; t = 3.7198e+00; dt = 1.7066e-03; 7.4 %
+           [Mach = 1.500024, NRiemann = 2]
+step:2210; t = 3.7369e+00; dt = 1.7066e-03; 7.5 %
+           [Mach = 1.500024, NRiemann = 2]
+step:2220; t = 3.7539e+00; dt = 1.7066e-03; 7.5 %
+           [Mach = 1.500024, NRiemann = 2]
+step:2230; t = 3.7710e+00; dt = 1.7066e-03; 7.5 %
+           [Mach = 1.500024, NRiemann = 2]
+step:2240; t = 3.7881e+00; dt = 1.7066e-03; 7.6 %
+           [Mach = 1.500024, NRiemann = 2]
+> Writing file #38 (dbl) to disk...
+  [ 1.00 sec ]
+step:2250; t = 3.8051e+00; dt = 1.7066e-03; 7.6 %
+           [Mach = 1.500024, NRiemann = 2]
+step:2260; t = 3.8222e+00; dt = 1.7066e-03; 7.6 %
+           [Mach = 1.500023, NRiemann = 2]
+step:2270; t = 3.8392e+00; dt = 1.7066e-03; 7.7 %
+           [Mach = 1.500023, NRiemann = 2]
+step:2280; t = 3.8563e+00; dt = 1.7066e-03; 7.7 %
+           [Mach = 1.500023, NRiemann = 2]
+step:2290; t = 3.8734e+00; dt = 1.7066e-03; 7.7 %
+           [Mach = 1.500023, NRiemann = 2]
+step:2300; t = 3.8904e+00; dt = 1.7066e-03; 7.8 %
+           [Mach = 1.500023, NRiemann = 2]
+step:2450; t = 4.1464e+00; dt = 1.7066e-03; 8.3 %
+           [Mach = 1.500021, NRiemann = 2]
+step:2460; t = 4.1635e+00; dt = 1.7066e-03; 8.3 %
+           [Mach = 1.500021, NRiemann = 2]
+step:2470; t = 4.1806e+00; dt = 1.7066e-03; 8.4 %
+           [Mach = 1.500020, NRiemann = 2]
+step:2480; t = 4.1976e+00; dt = 1.7066e-03; 8.4 %
+           [Mach = 1.500020, NRiemann = 2]
+step:2510; t = 4.2488e+00; dt = 1.7066e-03; 8.5 %
+           [Mach = 1.500020, NRiemann = 2]
+step:2520; t = 4.2659e+00; dt = 1.7066e-03; 8.5 %
+           [Mach = 1.500020, NRiemann = 2]
+step:2530; t = 4.2830e+00; dt = 1.7066e-03; 8.6 %
+           [Mach = 1.500019, NRiemann = 2]
+> Writing file #43 (dbl) to disk...
+  [ 1.00 sec ]
+step:2540; t = 4.3000e+00; dt = 1.7066e-03; 8.6 %
+           [Mach = 1.500019, NRiemann = 2]
+step:2580; t = 4.3683e+00; dt = 1.7066e-03; 8.7 %
+           [Mach = 1.500019, NRiemann = 2]
+step:2590; t = 4.3854e+00; dt = 1.7066e-03; 8.8 %
+           [Mach = 1.500018, NRiemann = 2]
+> Writing file #44 (dbl) to disk...
+  [ 0.00 sec ]
+step:2600; t = 4.4024e+00; dt = 1.7066e-03; 8.8 %
+           [Mach = 1.500018, NRiemann = 2]
+step:2610; t = 4.4195e+00; dt = 1.7066e-03; 8.8 %
+           [Mach = 1.500018, NRiemann = 2]
+step:2620; t = 4.4366e+00; dt = 1.7066e-03; 8.9 %
+           [Mach = 1.500018, NRiemann = 2]
+step:2630; t = 4.4536e+00; dt = 1.7066e-03; 8.9 %
+           [Mach = 1.500018, NRiemann = 2]
+step:2640; t = 4.4707e+00; dt = 1.7066e-03; 8.9 %
+           [Mach = 1.500018, NRiemann = 2]
+step:2650; t = 4.4878e+00; dt = 1.7066e-03; 9.0 %
+           [Mach = 1.500018, NRiemann = 2]
+> Writing file #45 (dbl) to disk...
+  [ 1.00 sec ]
+step:2660; t = 4.5048e+00; dt = 1.7066e-03; 9.0 %
+           [Mach = 1.500018, NRiemann = 2]
+step:2700; t = 4.5731e+00; dt = 1.7066e-03; 9.1 %
+           [Mach = 1.500017, NRiemann = 2]
+step:2710; t = 4.5902e+00; dt = 1.7066e-03; 9.2 %
+           [Mach = 1.500017, NRiemann = 2]
+> Writing file #46 (dbl) to disk...
+  [ 1.00 sec ]
+step:2720; t = 4.6072e+00; dt = 1.7066e-03; 9.2 %
+           [Mach = 1.500017, NRiemann = 2]
+step:2730; t = 4.6243e+00; dt = 1.7066e-03; 9.2 %
+           [Mach = 1.500017, NRiemann = 2]
+> Writing file #47 (dbl) to disk...
+  [ 0.00 sec ]
+step:2780; t = 4.7096e+00; dt = 1.7066e-03; 9.4 %
+           [Mach = 1.500016, NRiemann = 2]
+step:2790; t = 4.7267e+00; dt = 1.7066e-03; 9.5 %
+           [Mach = 1.500016, NRiemann = 2]
+step:2870; t = 4.8632e+00; dt = 1.7066e-03; 9.7 %
+           [Mach = 1.500015, NRiemann = 2]
+step:2880; t = 4.8803e+00; dt = 1.7066e-03; 9.8 %
+           [Mach = 1.500014, NRiemann = 2]
+step:2890; t = 4.8974e+00; dt = 1.7066e-03; 9.8 %
+           [Mach = 1.500014, NRiemann = 2]
+step:2950; t = 4.9997e+00; dt = 1.7066e-03; 10.0 %
+> Writing file #50 (dbl) to disk...
+  [ 2.00 sec ]
+           [Mach = 1.500013, NRiemann = 2]
+step:2960; t = 5.0168e+00; dt = 1.7066e-03; 10.0 %
+           [Mach = 1.500013, NRiemann = 2]
+step:2970; t = 5.0339e+00; dt = 1.7066e-03; 10.1 %
+           [Mach = 1.500013, NRiemann = 2]
+step:2980; t = 5.0509e+00; dt = 1.7066e-03; 10.1 %
+           [Mach = 1.500013, NRiemann = 2]
+step:2990; t = 5.0680e+00; dt = 1.7066e-03; 10.1 %
+           [Mach = 1.500013, NRiemann = 2]
+step:3000; t = 5.0851e+00; dt = 1.7066e-03; 10.2 %
+           [Mach = 1.500013, NRiemann = 2]
+step:3040; t = 5.1533e+00; dt = 1.7066e-03; 10.3 %
+           [Mach = 1.500012, NRiemann = 2]
+step:3050; t = 5.1704e+00; dt = 1.7066e-03; 10.3 %
+           [Mach = 1.500012, NRiemann = 2]
+step:3060; t = 5.1875e+00; dt = 1.7066e-03; 10.4 %
+           [Mach = 1.500012, NRiemann = 2]
+step:3090; t = 5.2387e+00; dt = 1.7066e-03; 10.5 %
+           [Mach = 1.500012, NRiemann = 2]
+step:3100; t = 5.2557e+00; dt = 1.7066e-03; 10.5 %
+           [Mach = 1.500012, NRiemann = 2]
+step:3110; t = 5.2728e+00; dt = 1.7066e-03; 10.5 %
+           [Mach = 1.500011, NRiemann = 2]
+step:3120; t = 5.2899e+00; dt = 1.7066e-03; 10.6 %
+           [Mach = 1.500011, NRiemann = 2]
+step:3340; t = 5.6653e+00; dt = 1.7066e-03; 11.3 %
+           [Mach = 1.500010, NRiemann = 2]
+step:3350; t = 5.6824e+00; dt = 1.7066e-03; 11.4 %
+           [Mach = 1.500010, NRiemann = 2]
+step:3360; t = 5.6995e+00; dt = 1.7066e-03; 11.4 %
+> Writing file #57 (dbl) to disk...
+  [ 1.00 sec ]
+           [Mach = 1.500010, NRiemann = 2]
+step:3370; t = 5.7165e+00; dt = 1.7066e-03; 11.4 %
+           [Mach = 1.500010, NRiemann = 2]
+> Writing file #59 (dbl) to disk...
+  [ 1.00 sec ]
+step:3480; t = 5.9043e+00; dt = 1.7066e-03; 11.8 %
+           [Mach = 1.500011, NRiemann = 2]
+step:3490; t = 5.9213e+00; dt = 1.7066e-03; 11.8 %
+           [Mach = 1.500011, NRiemann = 2]
+step:3550; t = 6.0237e+00; dt = 1.7066e-03; 12.0 %
+           [Mach = 1.500012, NRiemann = 2]
+step:3560; t = 6.0408e+00; dt = 1.7066e-03; 12.1 %
+           [Mach = 1.500012, NRiemann = 2]
+step:3570; t = 6.0578e+00; dt = 1.7066e-03; 12.1 %
+           [Mach = 1.500013, NRiemann = 2]
+step:3580; t = 6.0749e+00; dt = 1.7066e-03; 12.1 %
+           [Mach = 1.500013, NRiemann = 2]
+step:3590; t = 6.0920e+00; dt = 1.7066e-03; 12.2 %
+           [Mach = 1.500013, NRiemann = 2]
+> Writing file #61 (dbl) to disk...
+  [ 1.00 sec ]
+step:3600; t = 6.1090e+00; dt = 1.7066e-03; 12.2 %
+           [Mach = 1.500013, NRiemann = 2]
+step:3610; t = 6.1261e+00; dt = 1.7066e-03; 12.3 %
+           [Mach = 1.500013, NRiemann = 2]
+step:3650; t = 6.1944e+00; dt = 1.7066e-03; 12.4 %
+           [Mach = 1.500014, NRiemann = 2]
+> Writing file #62 (dbl) to disk...
+  [ 1.00 sec ]
+step:3660; t = 6.2114e+00; dt = 1.7066e-03; 12.4 %
+           [Mach = 1.500014, NRiemann = 2]
+step:3670; t = 6.2285e+00; dt = 1.7066e-03; 12.5 %
+           [Mach = 1.500014, NRiemann = 2]
+step:3680; t = 6.2456e+00; dt = 1.7066e-03; 12.5 %
+           [Mach = 1.500014, NRiemann = 2]
+step:3690; t = 6.2626e+00; dt = 1.7066e-03; 12.5 %
+           [Mach = 1.500014, NRiemann = 2]
+step:3760; t = 6.3821e+00; dt = 1.7066e-03; 12.8 %
+           [Mach = 1.500016, NRiemann = 2]
+step:3770; t = 6.3992e+00; dt = 1.7066e-03; 12.8 %
+> Writing file #64 (dbl) to disk...
+  [ 1.00 sec ]
+           [Mach = 1.500016, NRiemann = 2]
+step:3780; t = 6.4162e+00; dt = 1.7066e-03; 12.8 %
+           [Mach = 1.500016, NRiemann = 2]
+> Writing file #65 (dbl) to disk...
+  [ 1.00 sec ]
+step:3830; t = 6.5016e+00; dt = 1.7066e-03; 13.0 %
+           [Mach = 1.500017, NRiemann = 2]
+step:3840; t = 6.5186e+00; dt = 1.7066e-03; 13.0 %
+           [Mach = 1.500017, NRiemann = 2]
+step:3850; t = 6.5357e+00; dt = 1.7066e-03; 13.1 %
+           [Mach = 1.500017, NRiemann = 2]
+step:3910; t = 6.6381e+00; dt = 1.7066e-03; 13.3 %
+           [Mach = 1.500018, NRiemann = 2]
+step:3920; t = 6.6552e+00; dt = 1.7066e-03; 13.3 %
+           [Mach = 1.500018, NRiemann = 2]
+step:3930; t = 6.6722e+00; dt = 1.7066e-03; 13.3 %
+           [Mach = 1.500018, NRiemann = 2]
+step:3940; t = 6.6893e+00; dt = 1.7066e-03; 13.4 %
+           [Mach = 1.500018, NRiemann = 2]
+step:3990; t = 6.7746e+00; dt = 1.7066e-03; 13.5 %
+           [Mach = 1.500019, NRiemann = 2]
+step:4000; t = 6.7917e+00; dt = 1.7066e-03; 13.6 %
+           [Mach = 1.500019, NRiemann = 2]
+> Writing file #68 (dbl) to disk...
+  [ 1.00 sec ]
+step:4010; t = 6.8088e+00; dt = 1.7066e-03; 13.6 %
+           [Mach = 1.500019, NRiemann = 2]
+step:4040; t = 6.8600e+00; dt = 1.7066e-03; 13.7 %
+           [Mach = 1.500020, NRiemann = 2]
+step:4050; t = 6.8770e+00; dt = 1.7066e-03; 13.8 %
+           [Mach = 1.500020, NRiemann = 2]
+step:4060; t = 6.8941e+00; dt = 1.7066e-03; 13.8 %
+           [Mach = 1.500020, NRiemann = 2]
+> Writing file #69 (dbl) to disk...
+  [ 1.00 sec ]
+step:4070; t = 6.9112e+00; dt = 1.7066e-03; 13.8 %
+           [Mach = 1.500020, NRiemann = 2]
+step:4110; t = 6.9794e+00; dt = 1.7066e-03; 14.0 %
+           [Mach = 1.500021, NRiemann = 2]
+step:4120; t = 6.9965e+00; dt = 1.7066e-03; 14.0 %
+           [Mach = 1.500021, NRiemann = 2]
+> Writing file #70 (dbl) to disk...
+  [ 1.00 sec ]
+step:4130; t = 7.0136e+00; dt = 1.7066e-03; 14.0 %
+           [Mach = 1.500021, NRiemann = 2]
+step:4140; t = 7.0306e+00; dt = 1.7066e-03; 14.1 %
+           [Mach = 1.500021, NRiemann = 2]
+step:4180; t = 7.0989e+00; dt = 1.7066e-03; 14.2 %
+> Writing file #71 (dbl) to disk...
+  [ 2.00 sec ]
+           [Mach = 1.500022, NRiemann = 2]
+step:4190; t = 7.1160e+00; dt = 1.7066e-03; 14.2 %
+           [Mach = 1.500022, NRiemann = 2]
+step:4200; t = 7.1330e+00; dt = 1.7066e-03; 14.3 %
+           [Mach = 1.500022, NRiemann = 2]
+step:4260; t = 7.2354e+00; dt = 1.7066e-03; 14.5 %
+           [Mach = 1.500022, NRiemann = 2]
+step:4270; t = 7.2525e+00; dt = 1.7066e-03; 14.5 %
+           [Mach = 1.500022, NRiemann = 2]
+step:4280; t = 7.2695e+00; dt = 1.7066e-03; 14.5 %
+           [Mach = 1.500022, NRiemann = 2]
+step:4290; t = 7.2866e+00; dt = 1.7066e-03; 14.6 %
+           [Mach = 1.500022, NRiemann = 2]
+> Writing file #73 (dbl) to disk...
+  [ 1.00 sec ]
+step:4300; t = 7.3037e+00; dt = 1.7066e-03; 14.6 %
+           [Mach = 1.500022, NRiemann = 2]
+step:4310; t = 7.3207e+00; dt = 1.7066e-03; 14.6 %
+           [Mach = 1.500022, NRiemann = 2]
+step:4320; t = 7.3378e+00; dt = 1.7066e-03; 14.7 %
+           [Mach = 1.500022, NRiemann = 2]
+step:4330; t = 7.3549e+00; dt = 1.7066e-03; 14.7 %
+           [Mach = 1.500022, NRiemann = 2]
+step:4340; t = 7.3719e+00; dt = 1.7066e-03; 14.7 %
+           [Mach = 1.500022, NRiemann = 2]
+step:4350; t = 7.3890e+00; dt = 1.7066e-03; 14.8 %
+           [Mach = 1.500022, NRiemann = 2]
+step:4410; t = 7.4914e+00; dt = 1.7066e-03; 15.0 %
+           [Mach = 1.500022, NRiemann = 2]
+> Writing file #75 (dbl) to disk...
+  [ 2.00 sec ]
+step:4420; t = 7.5085e+00; dt = 1.7066e-03; 15.0 %
+           [Mach = 1.500021, NRiemann = 2]
+step:4430; t = 7.5255e+00; dt = 1.7066e-03; 15.1 %
+           [Mach = 1.500021, NRiemann = 2]
+step:4440; t = 7.5426e+00; dt = 1.7066e-03; 15.1 %
+           [Mach = 1.500021, NRiemann = 2]
+step:4510; t = 7.6621e+00; dt = 1.7066e-03; 15.3 %
+           [Mach = 1.500020, NRiemann = 2]
+step:4520; t = 7.6791e+00; dt = 1.7066e-03; 15.4 %
+           [Mach = 1.500020, NRiemann = 2]
+step:4530; t = 7.6962e+00; dt = 1.7066e-03; 15.4 %
+           [Mach = 1.500020, NRiemann = 2]
+> Writing file #77 (dbl) to disk...
+  [ 2.00 sec ]
+step:4540; t = 7.7133e+00; dt = 1.7066e-03; 15.4 %
+           [Mach = 1.500020, NRiemann = 2]
+step:4550; t = 7.7303e+00; dt = 1.7066e-03; 15.5 %
+           [Mach = 1.500020, NRiemann = 2]
+step:4560; t = 7.7474e+00; dt = 1.7066e-03; 15.5 %
+           [Mach = 1.500020, NRiemann = 2]
+step:4570; t = 7.7645e+00; dt = 1.7066e-03; 15.5 %
+           [Mach = 1.500020, NRiemann = 2]
+step:4580; t = 7.7815e+00; dt = 1.7066e-03; 15.6 %
+           [Mach = 1.500020, NRiemann = 2]
+step:4810; t = 8.1741e+00; dt = 1.7066e-03; 16.3 %
+           [Mach = 1.500017, NRiemann = 2]
+step:4820; t = 8.1911e+00; dt = 1.7066e-03; 16.4 %
+           [Mach = 1.500017, NRiemann = 2]
+step:4920; t = 8.3618e+00; dt = 1.7066e-03; 16.7 %
+           [Mach = 1.500015, NRiemann = 2]
+step:4930; t = 8.3788e+00; dt = 1.7066e-03; 16.8 %
+           [Mach = 1.500015, NRiemann = 2]
+step:4940; t = 8.3959e+00; dt = 1.7066e-03; 16.8 %
+           [Mach = 1.500015, NRiemann = 2]
+> Writing file #84 (dbl) to disk...
+  [ 2.00 sec ]
+step:4950; t = 8.4130e+00; dt = 1.7066e-03; 16.8 %
+           [Mach = 1.500014, NRiemann = 2]
+step:5000; t = 8.4983e+00; dt = 1.7066e-03; 17.0 %
+> Writing file #85 (dbl) to disk...
+  [ 1.00 sec ]
+           [Mach = 1.500013, NRiemann = 2]
+step:5010; t = 8.5154e+00; dt = 1.7066e-03; 17.0 %
+           [Mach = 1.500013, NRiemann = 2]
+step:5020; t = 8.5324e+00; dt = 1.7066e-03; 17.1 %
+           [Mach = 1.500013, NRiemann = 2]
+step:5100; t = 8.6690e+00; dt = 1.7066e-03; 17.3 %
+           [Mach = 1.500010, NRiemann = 2]
+step:5110; t = 8.6860e+00; dt = 1.7066e-03; 17.4 %
+           [Mach = 1.500010, NRiemann = 2]
+> Writing file #87 (dbl) to disk...
+  [ 1.00 sec ]
+step:5120; t = 8.7031e+00; dt = 1.7066e-03; 17.4 %
+           [Mach = 1.500010, NRiemann = 2]
+step:5130; t = 8.7202e+00; dt = 1.7066e-03; 17.4 %
+           [Mach = 1.500009, NRiemann = 2]
+step:5140; t = 8.7372e+00; dt = 1.7066e-03; 17.5 %
+           [Mach = 1.500009, NRiemann = 2]
+step:5150; t = 8.7543e+00; dt = 1.7066e-03; 17.5 %
+           [Mach = 1.500009, NRiemann = 2]
+step:5230; t = 8.8908e+00; dt = 1.7066e-03; 17.8 %
+           [Mach = 1.500007, NRiemann = 2]
+> Writing file #89 (dbl) to disk...
+  [ 1.00 sec ]
+step:5240; t = 8.9079e+00; dt = 1.7066e-03; 17.8 %
+           [Mach = 1.500007, NRiemann = 2]
+step:5250; t = 8.9250e+00; dt = 1.7066e-03; 17.8 %
+           [Mach = 1.500007, NRiemann = 2]
+step:5260; t = 8.9420e+00; dt = 1.7066e-03; 17.9 %
+           [Mach = 1.500007, NRiemann = 2]
+step:5270; t = 8.9591e+00; dt = 1.7066e-03; 17.9 %
+           [Mach = 1.500007, NRiemann = 2]
+step:5280; t = 8.9762e+00; dt = 1.7066e-03; 18.0 %
+           [Mach = 1.500007, NRiemann = 2]
+step:5290; t = 8.9932e+00; dt = 1.7066e-03; 18.0 %
+           [Mach = 1.500007, NRiemann = 2]
+> Writing file #90 (dbl) to disk...
+  [ 1.00 sec ]
+step:5300; t = 9.0103e+00; dt = 1.7066e-03; 18.0 %
+           [Mach = 1.500007, NRiemann = 2]
+step:5310; t = 9.0274e+00; dt = 1.7066e-03; 18.1 %
+           [Mach = 1.500007, NRiemann = 2]
+> Writing file #91 (dbl) to disk...
+  [ 1.00 sec ]
+step:5360; t = 9.1127e+00; dt = 1.7066e-03; 18.2 %
+           [Mach = 1.500007, NRiemann = 2]
+step:5370; t = 9.1298e+00; dt = 1.7066e-03; 18.3 %
+           [Mach = 1.500008, NRiemann = 2]
+step:5480; t = 9.3175e+00; dt = 1.7066e-03; 18.6 %
+           [Mach = 1.500009, NRiemann = 2]
+step:5490; t = 9.3346e+00; dt = 1.7066e-03; 18.7 %
+           [Mach = 1.500009, NRiemann = 2]
+step:5500; t = 9.3516e+00; dt = 1.7066e-03; 18.7 %
+           [Mach = 1.500010, NRiemann = 2]
+step:5510; t = 9.3687e+00; dt = 1.7066e-03; 18.7 %
+           [Mach = 1.500010, NRiemann = 2]
+step:5520; t = 9.3858e+00; dt = 1.7066e-03; 18.8 %
+           [Mach = 1.500010, NRiemann = 2]
+> Writing file #94 (dbl) to disk...
+  [ 2.00 sec ]
+step:5530; t = 9.4028e+00; dt = 1.7066e-03; 18.8 %
+           [Mach = 1.500010, NRiemann = 2]
+step:5540; t = 9.4199e+00; dt = 1.7066e-03; 18.8 %
+           [Mach = 1.500010, NRiemann = 2]
+step:5550; t = 9.4369e+00; dt = 1.7066e-03; 18.9 %
+           [Mach = 1.500011, NRiemann = 2]
+step:5560; t = 9.4540e+00; dt = 1.7066e-03; 18.9 %
+           [Mach = 1.500011, NRiemann = 2]
+step:5570; t = 9.4711e+00; dt = 1.7066e-03; 18.9 %
+           [Mach = 1.500011, NRiemann = 2]
+step:5580; t = 9.4881e+00; dt = 1.7066e-03; 19.0 %
+           [Mach = 1.500011, NRiemann = 2]
+step:5630; t = 9.5735e+00; dt = 1.7066e-03; 19.1 %
+           [Mach = 1.500012, NRiemann = 2]
+step:5640; t = 9.5905e+00; dt = 1.7066e-03; 19.2 %
+           [Mach = 1.500013, NRiemann = 2]
+> Writing file #96 (dbl) to disk...
+  [ 2.00 sec ]
+step:5650; t = 9.6076e+00; dt = 1.7066e-03; 19.2 %
+           [Mach = 1.500013, NRiemann = 2]
+step:5740; t = 9.7612e+00; dt = 1.7066e-03; 19.5 %
+           [Mach = 1.500015, NRiemann = 2]
+step:5750; t = 9.7783e+00; dt = 1.7066e-03; 19.6 %
+           [Mach = 1.500015, NRiemann = 2]
+step:5760; t = 9.7953e+00; dt = 1.7066e-03; 19.6 %
+           [Mach = 1.500015, NRiemann = 2]
+> Writing file #98 (dbl) to disk...
+  [ 1.00 sec ]
+step:5770; t = 9.8124e+00; dt = 1.7066e-03; 19.6 %
+           [Mach = 1.500016, NRiemann = 2]
+step:5780; t = 9.8295e+00; dt = 1.7066e-03; 19.7 %
+           [Mach = 1.500016, NRiemann = 2]
+step:5820; t = 9.8977e+00; dt = 1.7066e-03; 19.8 %
+           [Mach = 1.500017, NRiemann = 2]
+> Writing file #99 (dbl) to disk...
+  [ 1.00 sec ]
+step:5830; t = 9.9148e+00; dt = 1.7066e-03; 19.8 %
+           [Mach = 1.500017, NRiemann = 2]
+step:5840; t = 9.9319e+00; dt = 1.7066e-03; 19.9 %
+           [Mach = 1.500017, NRiemann = 2]
+> Writing file #100 (dbl) to disk...
+  [ 1.00 sec ]
+step:5880; t = 1.0000e+01; dt = 1.7066e-03; 20.0 %
+           [Mach = 1.500018, NRiemann = 2]
+step:6010; t = 1.0222e+01; dt = 1.7066e-03; 20.4 %
+           [Mach = 1.500019, NRiemann = 2]
+step:6020; t = 1.0239e+01; dt = 1.7066e-03; 20.5 %
+           [Mach = 1.500019, NRiemann = 2]
+step:6030; t = 1.0256e+01; dt = 1.7066e-03; 20.5 %
+           [Mach = 1.500020, NRiemann = 2]
+step:6040; t = 1.0273e+01; dt = 1.7066e-03; 20.5 %
+           [Mach = 1.500020, NRiemann = 2]
+step:6050; t = 1.0290e+01; dt = 1.7066e-03; 20.6 %
+           [Mach = 1.500020, NRiemann = 2]
+> Writing file #103 (dbl) to disk...
+  [ 0.00 sec ]
+step:6060; t = 1.0307e+01; dt = 1.7066e-03; 20.6 %
+           [Mach = 1.500020, NRiemann = 2]
+step:6110; t = 1.0393e+01; dt = 1.7066e-03; 20.8 %
+           [Mach = 1.500020, NRiemann = 2]
+> Writing file #104 (dbl) to disk...
+  [ 1.00 sec ]
+step:6120; t = 1.0410e+01; dt = 1.7066e-03; 20.8 %
+           [Mach = 1.500020, NRiemann = 2]
+step:6130; t = 1.0427e+01; dt = 1.7066e-03; 20.9 %
+           [Mach = 1.500020, NRiemann = 2]
+step:6140; t = 1.0444e+01; dt = 1.7066e-03; 20.9 %
+           [Mach = 1.500020, NRiemann = 2]
+step:6150; t = 1.0461e+01; dt = 1.7066e-03; 20.9 %
+           [Mach = 1.500020, NRiemann = 2]
+step:6160; t = 1.0478e+01; dt = 1.7066e-03; 21.0 %
+           [Mach = 1.500020, NRiemann = 2]
+step:6170; t = 1.0495e+01; dt = 1.7066e-03; 21.0 %
+           [Mach = 1.500020, NRiemann = 2]
+> Writing file #109 (dbl) to disk...
+  [ 1.00 sec ]
+step:6410; t = 1.0905e+01; dt = 1.7066e-03; 21.8 %
+           [Mach = 1.500021, NRiemann = 2]
+step:6420; t = 1.0922e+01; dt = 1.7066e-03; 21.8 %
+           [Mach = 1.500021, NRiemann = 2]
+step:6430; t = 1.0939e+01; dt = 1.7066e-03; 21.9 %
+           [Mach = 1.500021, NRiemann = 2]
+step:6440; t = 1.0956e+01; dt = 1.7066e-03; 21.9 %
+           [Mach = 1.500022, NRiemann = 2]
+step:6450; t = 1.0973e+01; dt = 1.7066e-03; 21.9 %
+           [Mach = 1.500022, NRiemann = 2]
+step:6460; t = 1.0990e+01; dt = 1.7066e-03; 22.0 %
+           [Mach = 1.500022, NRiemann = 2]
+> Writing file #111 (dbl) to disk...
+  [ 1.00 sec ]
+step:6530; t = 1.1109e+01; dt = 1.7066e-03; 22.2 %
+           [Mach = 1.500021, NRiemann = 2]
+step:6540; t = 1.1126e+01; dt = 1.7066e-03; 22.3 %
+           [Mach = 1.500021, NRiemann = 2]
+step:6580; t = 1.1195e+01; dt = 1.7066e-03; 22.4 %
+           [Mach = 1.500021, NRiemann = 2]
+step:6610; t = 1.1246e+01; dt = 1.7066e-03; 22.5 %
+           [Mach = 1.500021, NRiemann = 2]
+step:6620; t = 1.1263e+01; dt = 1.7066e-03; 22.5 %
+           [Mach = 1.500021, NRiemann = 2]
+step:6630; t = 1.1280e+01; dt = 1.7066e-03; 22.6 %
+           [Mach = 1.500020, NRiemann = 2]
+step:6640; t = 1.1297e+01; dt = 1.7066e-03; 22.6 %
+           [Mach = 1.500020, NRiemann = 2]
+step:6690; t = 1.1382e+01; dt = 1.7066e-03; 22.8 %
+           [Mach = 1.500019, NRiemann = 2]
+step:6700; t = 1.1400e+01; dt = 1.7066e-03; 22.8 %
+> Writing file #114 (dbl) to disk...
+  [ 0.00 sec ]
+           [Mach = 1.500019, NRiemann = 2]
+step:6710; t = 1.1417e+01; dt = 1.7066e-03; 22.8 %
+           [Mach = 1.500019, NRiemann = 2]
+step:6720; t = 1.1434e+01; dt = 1.7066e-03; 22.9 %
+           [Mach = 1.500019, NRiemann = 2]
+step:6730; t = 1.1451e+01; dt = 1.7066e-03; 22.9 %
+           [Mach = 1.500019, NRiemann = 2]
+step:6740; t = 1.1468e+01; dt = 1.7066e-03; 22.9 %
+           [Mach = 1.500018, NRiemann = 2]
+step:6750; t = 1.1485e+01; dt = 1.7066e-03; 23.0 %
+           [Mach = 1.500018, NRiemann = 2]
+> Writing file #115 (dbl) to disk...
+  [ 1.00 sec ]
+step:6760; t = 1.1502e+01; dt = 1.7066e-03; 23.0 %
+           [Mach = 1.500018, NRiemann = 2]
+step:6770; t = 1.1519e+01; dt = 1.7066e-03; 23.0 %
+           [Mach = 1.500018, NRiemann = 2]
+> Writing file #116 (dbl) to disk...
+  [ 1.00 sec ]
+step:6820; t = 1.1604e+01; dt = 1.7066e-03; 23.2 %
+           [Mach = 1.500016, NRiemann = 2]
+step:6830; t = 1.1621e+01; dt = 1.7066e-03; 23.2 %
+           [Mach = 1.500016, NRiemann = 2]
+> Writing file #117 (dbl) to disk...
+  [ 1.00 sec ]
+step:6880; t = 1.1707e+01; dt = 1.7066e-03; 23.4 %
+           [Mach = 1.500014, NRiemann = 2]
+step:6890; t = 1.1724e+01; dt = 1.7066e-03; 23.4 %
+           [Mach = 1.500014, NRiemann = 2]
+step:6900; t = 1.1741e+01; dt = 1.7066e-03; 23.5 %
+           [Mach = 1.500014, NRiemann = 2]
+step:7010; t = 1.1929e+01; dt = 1.7066e-03; 23.9 %
+           [Mach = 1.500010, NRiemann = 2]
+step:7020; t = 1.1946e+01; dt = 1.7066e-03; 23.9 %
+           [Mach = 1.500010, NRiemann = 2]
+step:7030; t = 1.1963e+01; dt = 1.7066e-03; 23.9 %
+           [Mach = 1.500010, NRiemann = 2]
+step:7040; t = 1.1980e+01; dt = 1.7066e-03; 24.0 %
+           [Mach = 1.500010, NRiemann = 2]
+step:7050; t = 1.1997e+01; dt = 1.7066e-03; 24.0 %
+           [Mach = 1.500009, NRiemann = 2]
+> Writing file #120 (dbl) to disk...
+  [ 1.00 sec ]
+step:7060; t = 1.2014e+01; dt = 1.7066e-03; 24.0 %
+           [Mach = 1.500009, NRiemann = 2]
+step:7070; t = 1.2031e+01; dt = 1.7066e-03; 24.1 %
+           [Mach = 1.500009, NRiemann = 2]
+step:7080; t = 1.2048e+01; dt = 1.7066e-03; 24.1 %
+           [Mach = 1.500009, NRiemann = 2]
+step:7090; t = 1.2065e+01; dt = 1.7066e-03; 24.1 %
+           [Mach = 1.500008, NRiemann = 2]
+step:7100; t = 1.2082e+01; dt = 1.7066e-03; 24.2 %
+           [Mach = 1.500008, NRiemann = 2]
+step:7110; t = 1.2099e+01; dt = 1.7066e-03; 24.2 %
+> Writing file #121 (dbl) to disk...
+  [ 0.00 sec ]
+           [Mach = 1.500008, NRiemann = 2]
+step:7120; t = 1.2116e+01; dt = 1.7066e-03; 24.2 %
+           [Mach = 1.500008, NRiemann = 2]
+step:7130; t = 1.2133e+01; dt = 1.7066e-03; 24.3 %
+           [Mach = 1.500007, NRiemann = 2]
+step:7140; t = 1.2150e+01; dt = 1.7066e-03; 24.3 %
+           [Mach = 1.500007, NRiemann = 2]
+step:7150; t = 1.2168e+01; dt = 1.7066e-03; 24.3 %
+           [Mach = 1.500007, NRiemann = 2]
+step:7160; t = 1.2185e+01; dt = 1.7066e-03; 24.4 %
+           [Mach = 1.500007, NRiemann = 2]
+step:7190; t = 1.2236e+01; dt = 1.7066e-03; 24.5 %
+           [Mach = 1.500007, NRiemann = 2]
+step:7200; t = 1.2253e+01; dt = 1.7066e-03; 24.5 %
+           [Mach = 1.500007, NRiemann = 2]
+step:7210; t = 1.2270e+01; dt = 1.7066e-03; 24.5 %
+           [Mach = 1.500007, NRiemann = 2]
+step:7220; t = 1.2287e+01; dt = 1.7066e-03; 24.6 %
+           [Mach = 1.500007, NRiemann = 2]
+> Writing file #123 (dbl) to disk...
+  [ 1.00 sec ]
+step:7230; t = 1.2304e+01; dt = 1.7066e-03; 24.6 %
+           [Mach = 1.500007, NRiemann = 2]
+step:7240; t = 1.2321e+01; dt = 1.7066e-03; 24.6 %
+           [Mach = 1.500007, NRiemann = 2]
+step:7250; t = 1.2338e+01; dt = 1.7066e-03; 24.7 %
+           [Mach = 1.500007, NRiemann = 2]
+step:7260; t = 1.2355e+01; dt = 1.7066e-03; 24.7 %
+           [Mach = 1.500007, NRiemann = 2]
+step:7270; t = 1.2372e+01; dt = 1.7066e-03; 24.7 %
+           [Mach = 1.500008, NRiemann = 2]
+step:7280; t = 1.2389e+01; dt = 1.7066e-03; 24.8 %
+           [Mach = 1.500008, NRiemann = 2]
+step:7330; t = 1.2475e+01; dt = 1.7066e-03; 24.9 %
+           [Mach = 1.500008, NRiemann = 2]
+step:7340; t = 1.2492e+01; dt = 1.7066e-03; 25.0 %
+           [Mach = 1.500008, NRiemann = 2]
+> Writing file #125 (dbl) to disk...
+  [ 1.00 sec ]
+step:7350; t = 1.2509e+01; dt = 1.7066e-03; 25.0 %
+           [Mach = 1.500009, NRiemann = 2]
+> Writing file #126 (dbl) to disk...
+  [ 1.00 sec ]
+step:7410; t = 1.2611e+01; dt = 1.7066e-03; 25.2 %
+           [Mach = 1.500010, NRiemann = 2]
+step:7420; t = 1.2628e+01; dt = 1.7066e-03; 25.3 %
+           [Mach = 1.500010, NRiemann = 2]
+step:7430; t = 1.2645e+01; dt = 1.7066e-03; 25.3 %
+           [Mach = 1.500010, NRiemann = 2]
+step:7500; t = 1.2765e+01; dt = 1.7066e-03; 25.5 %
+           [Mach = 1.500011, NRiemann = 2]
+step:7510; t = 1.2782e+01; dt = 1.7066e-03; 25.6 %
+           [Mach = 1.500011, NRiemann = 2]
+step:7520; t = 1.2799e+01; dt = 1.7066e-03; 25.6 %
+> Writing file #128 (dbl) to disk...
+  [ 1.00 sec ]
+           [Mach = 1.500011, NRiemann = 2]
+step:7610; t = 1.2953e+01; dt = 1.7066e-03; 25.9 %
+           [Mach = 1.500013, NRiemann = 2]
+step:7620; t = 1.2970e+01; dt = 1.7066e-03; 25.9 %
+           [Mach = 1.500013, NRiemann = 2]
+step:7630; t = 1.2987e+01; dt = 1.7066e-03; 26.0 %
+           [Mach = 1.500013, NRiemann = 2]
+> Writing file #130 (dbl) to disk...
+  [ 1.00 sec ]
+step:7640; t = 1.3004e+01; dt = 1.7066e-03; 26.0 %
+           [Mach = 1.500013, NRiemann = 2]
+step:7650; t = 1.3021e+01; dt = 1.7066e-03; 26.0 %
+           [Mach = 1.500013, NRiemann = 2]
+step:7660; t = 1.3038e+01; dt = 1.7066e-03; 26.1 %
+           [Mach = 1.500013, NRiemann = 2]
+step:7670; t = 1.3055e+01; dt = 1.7066e-03; 26.1 %
+           [Mach = 1.500013, NRiemann = 2]
+step:7680; t = 1.3072e+01; dt = 1.7066e-03; 26.1 %
+           [Mach = 1.500013, NRiemann = 2]
+step:7690; t = 1.3089e+01; dt = 1.7066e-03; 26.2 %
+           [Mach = 1.500014, NRiemann = 2]
+> Writing file #133 (dbl) to disk...
+  [ 1.00 sec ]
+step:7820; t = 1.3311e+01; dt = 1.7066e-03; 26.6 %
+           [Mach = 1.500015, NRiemann = 2]
+step:7830; t = 1.3328e+01; dt = 1.7066e-03; 26.7 %
+           [Mach = 1.500015, NRiemann = 2]
+step:7840; t = 1.3345e+01; dt = 1.7066e-03; 26.7 %
+           [Mach = 1.500016, NRiemann = 2]
+step:7850; t = 1.3362e+01; dt = 1.7066e-03; 26.7 %
+           [Mach = 1.500016, NRiemann = 2]
+step:7860; t = 1.3379e+01; dt = 1.7066e-03; 26.8 %
+           [Mach = 1.500016, NRiemann = 2]
+step:7870; t = 1.3396e+01; dt = 1.7066e-03; 26.8 %
+           [Mach = 1.500016, NRiemann = 2]
+> Writing file #134 (dbl) to disk...
+  [ 1.00 sec ]
+step:7880; t = 1.3413e+01; dt = 1.7066e-03; 26.8 %
+           [Mach = 1.500016, NRiemann = 2]
+step:7930; t = 1.3499e+01; dt = 1.7066e-03; 27.0 %
+> Writing file #135 (dbl) to disk...
+  [ 1.00 sec ]
+           [Mach = 1.500017, NRiemann = 2]
+step:7940; t = 1.3516e+01; dt = 1.7066e-03; 27.0 %
+           [Mach = 1.500017, NRiemann = 2]
+> Writing file #136 (dbl) to disk...
+  [ 1.00 sec ]
+step:7990; t = 1.3601e+01; dt = 1.7066e-03; 27.2 %
+           [Mach = 1.500018, NRiemann = 2]
+step:8000; t = 1.3618e+01; dt = 1.7066e-03; 27.2 %
+           [Mach = 1.500018, NRiemann = 2]
+> Writing file #138 (dbl) to disk...
+  [ 1.00 sec ]
+step:8110; t = 1.3806e+01; dt = 1.7066e-03; 27.6 %
+           [Mach = 1.500020, NRiemann = 2]
+step:8120; t = 1.3823e+01; dt = 1.7066e-03; 27.6 %
+           [Mach = 1.500020, NRiemann = 2]
+step:8200; t = 1.3959e+01; dt = 1.7066e-03; 27.9 %
+           [Mach = 1.500020, NRiemann = 2]
+step:8210; t = 1.3977e+01; dt = 1.7066e-03; 28.0 %
+           [Mach = 1.500021, NRiemann = 2]
+step:8220; t = 1.3994e+01; dt = 1.7066e-03; 28.0 %
+           [Mach = 1.500021, NRiemann = 2]
+step:8270; t = 1.4079e+01; dt = 1.7066e-03; 28.2 %
+           [Mach = 1.500021, NRiemann = 2]
+step:8280; t = 1.4096e+01; dt = 1.7066e-03; 28.2 %
+           [Mach = 1.500021, NRiemann = 2]
+> Writing file #141 (dbl) to disk...
+  [ 1.00 sec ]
+step:8290; t = 1.4113e+01; dt = 1.7066e-03; 28.2 %
+           [Mach = 1.500021, NRiemann = 2]
+step:8300; t = 1.4130e+01; dt = 1.7066e-03; 28.3 %
+           [Mach = 1.500021, NRiemann = 2]
+step:8310; t = 1.4147e+01; dt = 1.7066e-03; 28.3 %
+           [Mach = 1.500021, NRiemann = 2]
+step:8320; t = 1.4164e+01; dt = 1.7066e-03; 28.3 %
+           [Mach = 1.500021, NRiemann = 2]
+step:8330; t = 1.4181e+01; dt = 1.7066e-03; 28.4 %
+           [Mach = 1.500021, NRiemann = 2]
+step:8340; t = 1.4198e+01; dt = 1.7066e-03; 28.4 %
+> Writing file #142 (dbl) to disk...
+  [ 1.00 sec ]
+           [Mach = 1.500021, NRiemann = 2]
+step:8350; t = 1.4215e+01; dt = 1.7066e-03; 28.4 %
+           [Mach = 1.500021, NRiemann = 2]
+step:8360; t = 1.4233e+01; dt = 1.7066e-03; 28.5 %
+           [Mach = 1.500021, NRiemann = 2]
+step:8370; t = 1.4250e+01; dt = 1.7066e-03; 28.5 %
+           [Mach = 1.500021, NRiemann = 2]
+step:8380; t = 1.4267e+01; dt = 1.7066e-03; 28.5 %
+           [Mach = 1.500020, NRiemann = 2]
+step:8390; t = 1.4284e+01; dt = 1.7066e-03; 28.6 %
+           [Mach = 1.500020, NRiemann = 2]
+> Writing file #143 (dbl) to disk...
+  [ 1.00 sec ]
+step:8400; t = 1.4301e+01; dt = 1.7066e-03; 28.6 %
+           [Mach = 1.500020, NRiemann = 2]
+step:8410; t = 1.4318e+01; dt = 1.7066e-03; 28.6 %
+           [Mach = 1.500020, NRiemann = 2]
+step:8420; t = 1.4335e+01; dt = 1.7066e-03; 28.7 %
+           [Mach = 1.500020, NRiemann = 2]
+> Writing file #144 (dbl) to disk...
+  [ 2.00 sec ]
+step:8460; t = 1.4403e+01; dt = 1.7066e-03; 28.8 %
+           [Mach = 1.500020, NRiemann = 2]
+step:8470; t = 1.4420e+01; dt = 1.7066e-03; 28.8 %
+           [Mach = 1.500020, NRiemann = 2]
+step:8480; t = 1.4437e+01; dt = 1.7066e-03; 28.9 %
+           [Mach = 1.500020, NRiemann = 2]
+step:8550; t = 1.4557e+01; dt = 1.7066e-03; 29.1 %
+           [Mach = 1.500019, NRiemann = 2]
+step:8560; t = 1.4574e+01; dt = 1.7066e-03; 29.1 %
+           [Mach = 1.500019, NRiemann = 2]
+step:8570; t = 1.4591e+01; dt = 1.7066e-03; 29.2 %
+           [Mach = 1.500019, NRiemann = 2]
+> Writing file #146 (dbl) to disk...
+  [ 1.00 sec ]
+step:8580; t = 1.4608e+01; dt = 1.7066e-03; 29.2 %
+           [Mach = 1.500018, NRiemann = 2]
+step:8590; t = 1.4625e+01; dt = 1.7066e-03; 29.3 %
+           [Mach = 1.500018, NRiemann = 2]
+step:8600; t = 1.4642e+01; dt = 1.7066e-03; 29.3 %
+           [Mach = 1.500018, NRiemann = 2]
+step:8610; t = 1.4659e+01; dt = 1.7066e-03; 29.3 %
+           [Mach = 1.500018, NRiemann = 2]
+step:8650; t = 1.4727e+01; dt = 1.7066e-03; 29.5 %
+           [Mach = 1.500017, NRiemann = 2]
+step:8660; t = 1.4745e+01; dt = 1.7066e-03; 29.5 %
+           [Mach = 1.500017, NRiemann = 2]
+step:9080; t = 1.5461e+01; dt = 1.7066e-03; 30.9 %
+           [Mach = 1.500008, NRiemann = 2]
+step:9090; t = 1.5478e+01; dt = 1.7066e-03; 31.0 %
+           [Mach = 1.500008, NRiemann = 2]
+step:9100; t = 1.5495e+01; dt = 1.7066e-03; 31.0 %
+           [Mach = 1.500008, NRiemann = 2]
+> Writing file #155 (dbl) to disk...
+  [ 1.00 sec ]
+step:9110; t = 1.5513e+01; dt = 1.7066e-03; 31.0 %
+           [Mach = 1.500008, NRiemann = 2]
+step:9120; t = 1.5530e+01; dt = 1.7066e-03; 31.1 %
+           [Mach = 1.500008, NRiemann = 2]
+> Writing file #156 (dbl) to disk...
+  [ 0.00 sec ]
+step:9170; t = 1.5615e+01; dt = 1.7066e-03; 31.2 %
+           [Mach = 1.500008, NRiemann = 2]
+step:9180; t = 1.5632e+01; dt = 1.7066e-03; 31.3 %
+           [Mach = 1.500008, NRiemann = 2]
+step:9190; t = 1.5649e+01; dt = 1.7066e-03; 31.3 %
+           [Mach = 1.500008, NRiemann = 2]
+step:9200; t = 1.5666e+01; dt = 1.7066e-03; 31.3 %
+           [Mach = 1.500008, NRiemann = 2]
+step:9210; t = 1.5683e+01; dt = 1.7066e-03; 31.4 %
+           [Mach = 1.500008, NRiemann = 2]
+> Writing file #157 (dbl) to disk...
+  [ 0.00 sec ]
+step:9220; t = 1.5700e+01; dt = 1.7066e-03; 31.4 %
+           [Mach = 1.500009, NRiemann = 2]
+step:9230; t = 1.5717e+01; dt = 1.7066e-03; 31.4 %
+           [Mach = 1.500009, NRiemann = 2]
+step:9240; t = 1.5734e+01; dt = 1.7066e-03; 31.5 %
+           [Mach = 1.500009, NRiemann = 2]
+step:9250; t = 1.5751e+01; dt = 1.7066e-03; 31.5 %
+           [Mach = 1.500009, NRiemann = 2]
+step:9260; t = 1.5768e+01; dt = 1.7066e-03; 31.5 %
+           [Mach = 1.500009, NRiemann = 2]
+step:9270; t = 1.5786e+01; dt = 1.7066e-03; 31.6 %
+           [Mach = 1.500009, NRiemann = 2]
+> Writing file #158 (dbl) to disk...
+  [ 1.00 sec ]
+step:9280; t = 1.5803e+01; dt = 1.7066e-03; 31.6 %
+           [Mach = 1.500010, NRiemann = 2]
+step:9290; t = 1.5820e+01; dt = 1.7066e-03; 31.6 %
+           [Mach = 1.500010, NRiemann = 2]
+step:9300; t = 1.5837e+01; dt = 1.7066e-03; 31.7 %
+           [Mach = 1.500010, NRiemann = 2]
+step:9310; t = 1.5854e+01; dt = 1.7066e-03; 31.7 %
+           [Mach = 1.500010, NRiemann = 2]
+step:9320; t = 1.5871e+01; dt = 1.7066e-03; 31.7 %
+           [Mach = 1.500010, NRiemann = 2]
+step:9330; t = 1.5888e+01; dt = 1.7066e-03; 31.8 %
+           [Mach = 1.500011, NRiemann = 2]
+> Writing file #159 (dbl) to disk...
+  [ 1.00 sec ]
+step:9340; t = 1.5905e+01; dt = 1.7066e-03; 31.8 %
+           [Mach = 1.500011, NRiemann = 2]
+step:9350; t = 1.5922e+01; dt = 1.7066e-03; 31.8 %
+           [Mach = 1.500011, NRiemann = 2]
+step:9360; t = 1.5939e+01; dt = 1.7066e-03; 31.9 %
+           [Mach = 1.500011, NRiemann = 2]
+step:9370; t = 1.5956e+01; dt = 1.7066e-03; 31.9 %
+           [Mach = 1.500011, NRiemann = 2]
+step:9380; t = 1.5973e+01; dt = 1.7066e-03; 31.9 %
+           [Mach = 1.500011, NRiemann = 2]
+step:9390; t = 1.5990e+01; dt = 1.7066e-03; 32.0 %
+           [Mach = 1.500012, NRiemann = 2]
+> Writing file #161 (dbl) to disk...
+  [ 1.00 sec ]
+step:9460; t = 1.6110e+01; dt = 1.7066e-03; 32.2 %
+           [Mach = 1.500013, NRiemann = 2]
+step:9470; t = 1.6127e+01; dt = 1.7066e-03; 32.3 %
+           [Mach = 1.500013, NRiemann = 2]
+step:9480; t = 1.6144e+01; dt = 1.7066e-03; 32.3 %
+           [Mach = 1.500013, NRiemann = 2]
+step:9550; t = 1.6263e+01; dt = 1.7066e-03; 32.5 %
+           [Mach = 1.500014, NRiemann = 2]
+step:9560; t = 1.6280e+01; dt = 1.7066e-03; 32.6 %
+           [Mach = 1.500014, NRiemann = 2]
+step:9570; t = 1.6298e+01; dt = 1.7066e-03; 32.6 %
+           [Mach = 1.500014, NRiemann = 2]
+step:9650; t = 1.6434e+01; dt = 1.7066e-03; 32.9 %
+           [Mach = 1.500015, NRiemann = 2]
+step:9660; t = 1.6451e+01; dt = 1.7066e-03; 32.9 %
+           [Mach = 1.500016, NRiemann = 2]
+step:9670; t = 1.6468e+01; dt = 1.7066e-03; 32.9 %
+           [Mach = 1.500016, NRiemann = 2]
+step:9680; t = 1.6485e+01; dt = 1.7066e-03; 33.0 %
+           [Mach = 1.500016, NRiemann = 2]
+> Writing file #167 (dbl) to disk...
+  [ 4.00 sec ]
+step:9810; t = 1.6707e+01; dt = 1.7066e-03; 33.4 %
+           [Mach = 1.500017, NRiemann = 2]
+step:9820; t = 1.6724e+01; dt = 1.7066e-03; 33.4 %
+           [Mach = 1.500017, NRiemann = 2]
+step:9830; t = 1.6741e+01; dt = 1.7066e-03; 33.5 %
+           [Mach = 1.500018, NRiemann = 2]
+step:9960; t = 1.6963e+01; dt = 1.7066e-03; 33.9 %
+           [Mach = 1.500019, NRiemann = 2]
+step:9970; t = 1.6980e+01; dt = 1.7066e-03; 34.0 %
+           [Mach = 1.500019, NRiemann = 2]
+step:9980; t = 1.6997e+01; dt = 1.7066e-03; 34.0 %
+           [Mach = 1.500019, NRiemann = 2]
+step:10010; t = 1.7048e+01; dt = 1.7066e-03; 34.1 %
+            [Mach = 1.500019, NRiemann = 2]
+step:10020; t = 1.7066e+01; dt = 1.7066e-03; 34.1 %
+            [Mach = 1.500019, NRiemann = 2]
+step:10030; t = 1.7083e+01; dt = 1.7066e-03; 34.2 %
+            [Mach = 1.500019, NRiemann = 2]
+step:10440; t = 1.7782e+01; dt = 1.7066e-03; 35.6 %
+            [Mach = 1.500020, NRiemann = 2]
+> Writing file #179 (dbl) to disk...
+  [ 0.00 sec ]
+step:10510; t = 1.7902e+01; dt = 1.7066e-03; 35.8 %
+            [Mach = 1.500019, NRiemann = 2]
+step:10520; t = 1.7919e+01; dt = 1.7066e-03; 35.8 %
+            [Mach = 1.500019, NRiemann = 2]
+step:10530; t = 1.7936e+01; dt = 1.7066e-03; 35.9 %
+            [Mach = 1.500019, NRiemann = 2]
+step:10540; t = 1.7953e+01; dt = 1.7066e-03; 35.9 %
+            [Mach = 1.500019, NRiemann = 2]
+> Writing file #181 (dbl) to disk...
+  [ 1.00 sec ]
+step:10630; t = 1.8107e+01; dt = 1.7066e-03; 36.2 %
+            [Mach = 1.500017, NRiemann = 2]
+step:10640; t = 1.8124e+01; dt = 1.7066e-03; 36.2 %
+            [Mach = 1.500017, NRiemann = 2]
+step:10650; t = 1.8141e+01; dt = 1.7066e-03; 36.3 %
+            [Mach = 1.500017, NRiemann = 2]
+step:10660; t = 1.8158e+01; dt = 1.7066e-03; 36.3 %
+            [Mach = 1.500017, NRiemann = 2]
+step:10670; t = 1.8175e+01; dt = 1.7066e-03; 36.3 %
+            [Mach = 1.500016, NRiemann = 2]
+step:10680; t = 1.8192e+01; dt = 1.7066e-03; 36.4 %
+            [Mach = 1.500016, NRiemann = 2]
+> Writing file #182 (dbl) to disk...
+  [ 1.00 sec ]
+step:10690; t = 1.8209e+01; dt = 1.7066e-03; 36.4 %
+            [Mach = 1.500016, NRiemann = 2]
+step:10700; t = 1.8226e+01; dt = 1.7066e-03; 36.5 %
+            [Mach = 1.500016, NRiemann = 2]
+step:10710; t = 1.8243e+01; dt = 1.7066e-03; 36.5 %
+            [Mach = 1.500016, NRiemann = 2]
+step:10720; t = 1.8260e+01; dt = 1.7066e-03; 36.5 %
+            [Mach = 1.500015, NRiemann = 2]
+step:10730; t = 1.8277e+01; dt = 1.7066e-03; 36.6 %
+            [Mach = 1.500015, NRiemann = 2]
+step:10740; t = 1.8294e+01; dt = 1.7066e-03; 36.6 %
+            [Mach = 1.500015, NRiemann = 2]
+> Writing file #183 (dbl) to disk...
+  [ 0.00 sec ]
+step:10750; t = 1.8311e+01; dt = 1.7066e-03; 36.6 %
+            [Mach = 1.500015, NRiemann = 2]
+step:10760; t = 1.8328e+01; dt = 1.7066e-03; 36.7 %
+            [Mach = 1.500014, NRiemann = 2]
+step:10770; t = 1.8345e+01; dt = 1.7066e-03; 36.7 %
+            [Mach = 1.500014, NRiemann = 2]
+step:10780; t = 1.8363e+01; dt = 1.7066e-03; 36.7 %
+            [Mach = 1.500014, NRiemann = 2]
+step:10790; t = 1.8380e+01; dt = 1.7066e-03; 36.8 %
+            [Mach = 1.500014, NRiemann = 2]
+step:10800; t = 1.8397e+01; dt = 1.7066e-03; 36.8 %
+            [Mach = 1.500014, NRiemann = 2]
+> Writing file #184 (dbl) to disk...
+  [ 2.00 sec ]
+step:10810; t = 1.8414e+01; dt = 1.7066e-03; 36.8 %
+            [Mach = 1.500013, NRiemann = 2]
+step:10880; t = 1.8533e+01; dt = 1.7066e-03; 37.1 %
+            [Mach = 1.500012, NRiemann = 2]
+step:10890; t = 1.8550e+01; dt = 1.7066e-03; 37.1 %
+            [Mach = 1.500011, NRiemann = 2]
+step:10900; t = 1.8567e+01; dt = 1.7066e-03; 37.1 %
+            [Mach = 1.500011, NRiemann = 2]
+step:10910; t = 1.8584e+01; dt = 1.7066e-03; 37.2 %
+            [Mach = 1.500011, NRiemann = 2]
+> Writing file #186 (dbl) to disk...
+  [ 0.00 sec ]
+step:10920; t = 1.8601e+01; dt = 1.7066e-03; 37.2 %
+            [Mach = 1.500011, NRiemann = 2]
+step:10930; t = 1.8619e+01; dt = 1.7066e-03; 37.2 %
+            [Mach = 1.500010, NRiemann = 2]
+step:10940; t = 1.8636e+01; dt = 1.7066e-03; 37.3 %
+            [Mach = 1.500010, NRiemann = 2]
+step:10950; t = 1.8653e+01; dt = 1.7066e-03; 37.3 %
+            [Mach = 1.500010, NRiemann = 2]
+step:10960; t = 1.8670e+01; dt = 1.7066e-03; 37.3 %
+            [Mach = 1.500010, NRiemann = 2]
+step:10970; t = 1.8687e+01; dt = 1.7066e-03; 37.4 %
+            [Mach = 1.500009, NRiemann = 2]
+step:11020; t = 1.8772e+01; dt = 1.7066e-03; 37.5 %
+            [Mach = 1.500008, NRiemann = 2]
+step:11030; t = 1.8789e+01; dt = 1.7066e-03; 37.6 %
+            [Mach = 1.500008, NRiemann = 2]
+> Writing file #188 (dbl) to disk...
+  [ 2.00 sec ]
+step:11040; t = 1.8806e+01; dt = 1.7066e-03; 37.6 %
+            [Mach = 1.500008, NRiemann = 2]
+step:11120; t = 1.8943e+01; dt = 1.7066e-03; 37.9 %
+            [Mach = 1.500008, NRiemann = 2]
+step:11130; t = 1.8960e+01; dt = 1.7066e-03; 37.9 %
+            [Mach = 1.500008, NRiemann = 2]
+step:11140; t = 1.8977e+01; dt = 1.7066e-03; 38.0 %
+            [Mach = 1.500008, NRiemann = 2]
+step:11150; t = 1.8994e+01; dt = 1.7066e-03; 38.0 %
+            [Mach = 1.500008, NRiemann = 2]
+> Writing file #190 (dbl) to disk...
+  [ 2.00 sec ]
+step:11160; t = 1.9011e+01; dt = 1.7066e-03; 38.0 %
+            [Mach = 1.500008, NRiemann = 2]
+step:11170; t = 1.9028e+01; dt = 1.7066e-03; 38.1 %
+            [Mach = 1.500008, NRiemann = 2]
+step:11180; t = 1.9045e+01; dt = 1.7066e-03; 38.1 %
+            [Mach = 1.500009, NRiemann = 2]
+step:11190; t = 1.9062e+01; dt = 1.7066e-03; 38.1 %
+            [Mach = 1.500009, NRiemann = 2]
+step:11200; t = 1.9079e+01; dt = 1.7066e-03; 38.2 %
+            [Mach = 1.500009, NRiemann = 2]
+step:11210; t = 1.9096e+01; dt = 1.7066e-03; 38.2 %
+            [Mach = 1.500009, NRiemann = 2]
+> Writing file #191 (dbl) to disk...
+  [ 0.00 sec ]
+step:11220; t = 1.9113e+01; dt = 1.7066e-03; 38.2 %
+            [Mach = 1.500009, NRiemann = 2]
+step:11230; t = 1.9131e+01; dt = 1.7066e-03; 38.3 %
+            [Mach = 1.500009, NRiemann = 2]
+step:11240; t = 1.9148e+01; dt = 1.7066e-03; 38.3 %
+            [Mach = 1.500009, NRiemann = 2]
+step:11250; t = 1.9165e+01; dt = 1.7066e-03; 38.3 %
+            [Mach = 1.500010, NRiemann = 2]
+step:11260; t = 1.9182e+01; dt = 1.7066e-03; 38.4 %
+            [Mach = 1.500010, NRiemann = 2]
+step:11270; t = 1.9199e+01; dt = 1.7066e-03; 38.4 %
+> Writing file #192 (dbl) to disk...
+  [ 1.00 sec ]
+            [Mach = 1.500010, NRiemann = 2]
+step:11280; t = 1.9216e+01; dt = 1.7066e-03; 38.4 %
+            [Mach = 1.500010, NRiemann = 2]
+step:11290; t = 1.9233e+01; dt = 1.7066e-03; 38.5 %
+            [Mach = 1.500010, NRiemann = 2]
+step:11300; t = 1.9250e+01; dt = 1.7066e-03; 38.5 %
+            [Mach = 1.500010, NRiemann = 2]
+step:11310; t = 1.9267e+01; dt = 1.7066e-03; 38.5 %
+            [Mach = 1.500010, NRiemann = 2]
+step:11320; t = 1.9284e+01; dt = 1.7066e-03; 38.6 %
+            [Mach = 1.500011, NRiemann = 2]
+> Writing file #193 (dbl) to disk...
+  [ 1.00 sec ]
+step:11330; t = 1.9301e+01; dt = 1.7066e-03; 38.6 %
+            [Mach = 1.500011, NRiemann = 2]
+step:11340; t = 1.9318e+01; dt = 1.7066e-03; 38.6 %
+            [Mach = 1.500011, NRiemann = 2]
+step:11350; t = 1.9335e+01; dt = 1.7066e-03; 38.7 %
+            [Mach = 1.500011, NRiemann = 2]
+step:11360; t = 1.9352e+01; dt = 1.7066e-03; 38.7 %
+            [Mach = 1.500011, NRiemann = 2]
+step:11370; t = 1.9369e+01; dt = 1.7066e-03; 38.7 %
+            [Mach = 1.500011, NRiemann = 2]
+step:11380; t = 1.9387e+01; dt = 1.7066e-03; 38.8 %
+            [Mach = 1.500012, NRiemann = 2]
+> Writing file #194 (dbl) to disk...
+  [ 0.00 sec ]
+step:11390; t = 1.9404e+01; dt = 1.7066e-03; 38.8 %
+            [Mach = 1.500012, NRiemann = 2]
+step:11400; t = 1.9421e+01; dt = 1.7066e-03; 38.8 %
+            [Mach = 1.500012, NRiemann = 2]
+step:11410; t = 1.9438e+01; dt = 1.7066e-03; 38.9 %
+            [Mach = 1.500012, NRiemann = 2]
+step:11420; t = 1.9455e+01; dt = 1.7066e-03; 38.9 %
+            [Mach = 1.500012, NRiemann = 2]
+step:11430; t = 1.9472e+01; dt = 1.7066e-03; 38.9 %
+            [Mach = 1.500012, NRiemann = 2]
+step:11440; t = 1.9489e+01; dt = 1.7066e-03; 39.0 %
+            [Mach = 1.500013, NRiemann = 2]
+step:11530; t = 1.9643e+01; dt = 1.7066e-03; 39.3 %
+            [Mach = 1.500014, NRiemann = 2]
+step:11540; t = 1.9660e+01; dt = 1.7066e-03; 39.3 %
+            [Mach = 1.500015, NRiemann = 2]
+step:11550; t = 1.9677e+01; dt = 1.7066e-03; 39.4 %
+            [Mach = 1.500015, NRiemann = 2]
+step:11560; t = 1.9694e+01; dt = 1.7066e-03; 39.4 %
+            [Mach = 1.500015, NRiemann = 2]
+step:11600; t = 1.9762e+01; dt = 1.7066e-03; 39.5 %
+            [Mach = 1.500016, NRiemann = 2]
+step:11610; t = 1.9779e+01; dt = 1.7066e-03; 39.6 %
+            [Mach = 1.500016, NRiemann = 2]
+step:11620; t = 1.9796e+01; dt = 1.7066e-03; 39.6 %
+            [Mach = 1.500016, NRiemann = 2]
+> Writing file #200 (dbl) to disk...
+  [ 1.00 sec ]
+step:11740; t = 2.0001e+01; dt = 1.7066e-03; 40.0 %
+            [Mach = 1.500018, NRiemann = 2]
+step:11750; t = 2.0018e+01; dt = 1.7066e-03; 40.0 %
+            [Mach = 1.500018, NRiemann = 2]
+step:11760; t = 2.0035e+01; dt = 1.7066e-03; 40.1 %
+            [Mach = 1.500018, NRiemann = 2]
+step:11770; t = 2.0052e+01; dt = 1.7066e-03; 40.1 %
+            [Mach = 1.500018, NRiemann = 2]
+step:11780; t = 2.0069e+01; dt = 1.7066e-03; 40.1 %
+            [Mach = 1.500018, NRiemann = 2]
+step:11790; t = 2.0086e+01; dt = 1.7066e-03; 40.2 %
+            [Mach = 1.500018, NRiemann = 2]
+> Writing file #201 (dbl) to disk...
+  [ 1.00 sec ]
+step:11800; t = 2.0103e+01; dt = 1.7066e-03; 40.2 %
+            [Mach = 1.500018, NRiemann = 2]
+step:11810; t = 2.0120e+01; dt = 1.7066e-03; 40.2 %
+            [Mach = 1.500019, NRiemann = 2]
+step:11820; t = 2.0137e+01; dt = 1.7066e-03; 40.3 %
+            [Mach = 1.500019, NRiemann = 2]
+step:11830; t = 2.0154e+01; dt = 1.7066e-03; 40.3 %
+            [Mach = 1.500019, NRiemann = 2]
+step:11840; t = 2.0172e+01; dt = 1.7066e-03; 40.3 %
+            [Mach = 1.500019, NRiemann = 2]
+step:11890; t = 2.0257e+01; dt = 1.7066e-03; 40.5 %
+            [Mach = 1.500019, NRiemann = 2]
+step:11900; t = 2.0274e+01; dt = 1.7066e-03; 40.5 %
+            [Mach = 1.500019, NRiemann = 2]
+step:11910; t = 2.0291e+01; dt = 1.7066e-03; 40.6 %
+            [Mach = 1.500019, NRiemann = 2]
+> Writing file #203 (dbl) to disk...
+  [ 0.00 sec ]
+step:11920; t = 2.0308e+01; dt = 1.7066e-03; 40.6 %
+            [Mach = 1.500019, NRiemann = 2]
+step:11940; t = 2.0342e+01; dt = 1.7066e-03; 40.7 %
+            [Mach = 1.500019, NRiemann = 2]
+step:11950; t = 2.0359e+01; dt = 1.7066e-03; 40.7 %
+            [Mach = 1.500019, NRiemann = 2]
+step:11960; t = 2.0376e+01; dt = 1.7066e-03; 40.8 %
+            [Mach = 1.500019, NRiemann = 2]
+step:11970; t = 2.0393e+01; dt = 1.7066e-03; 40.8 %
+            [Mach = 1.500019, NRiemann = 2]
+> Writing file #204 (dbl) to disk...
+  [ 1.00 sec ]
+step:11980; t = 2.0410e+01; dt = 1.7066e-03; 40.8 %
+            [Mach = 1.500019, NRiemann = 2]
+step:11990; t = 2.0428e+01; dt = 1.7066e-03; 40.9 %
+            [Mach = 1.500019, NRiemann = 2]
+> Writing file #205 (dbl) to disk...
+  [ 1.00 sec ]
+step:12040; t = 2.0513e+01; dt = 1.7066e-03; 41.0 %
+            [Mach = 1.500019, NRiemann = 2]
+step:12050; t = 2.0530e+01; dt = 1.7066e-03; 41.1 %
+            [Mach = 1.500019, NRiemann = 2]
+step:12060; t = 2.0547e+01; dt = 1.7066e-03; 41.1 %
+            [Mach = 1.500019, NRiemann = 2]
+step:12070; t = 2.0564e+01; dt = 1.7066e-03; 41.1 %
+            [Mach = 1.500019, NRiemann = 2]
+step:12080; t = 2.0581e+01; dt = 1.7066e-03; 41.2 %
+            [Mach = 1.500019, NRiemann = 2]
+step:12090; t = 2.0598e+01; dt = 1.7066e-03; 41.2 %
+            [Mach = 1.500019, NRiemann = 2]
+> Writing file #206 (dbl) to disk...
+  [ 1.00 sec ]
+step:12100; t = 2.0615e+01; dt = 1.7066e-03; 41.2 %
+            [Mach = 1.500019, NRiemann = 2]
+step:12110; t = 2.0632e+01; dt = 1.7066e-03; 41.3 %
+            [Mach = 1.500019, NRiemann = 2]
+step:12120; t = 2.0649e+01; dt = 1.7066e-03; 41.3 %
+            [Mach = 1.500019, NRiemann = 2]
+step:12130; t = 2.0666e+01; dt = 1.7066e-03; 41.3 %
+            [Mach = 1.500019, NRiemann = 2]
+step:12140; t = 2.0684e+01; dt = 1.7066e-03; 41.4 %
+            [Mach = 1.500019, NRiemann = 2]
+> Writing file #207 (dbl) to disk...
+  [ 1.00 sec ]
+step:12150; t = 2.0701e+01; dt = 1.7066e-03; 41.4 %
+            [Mach = 1.500019, NRiemann = 2]
+step:12160; t = 2.0718e+01; dt = 1.7066e-03; 41.4 %
+            [Mach = 1.500019, NRiemann = 2]
+step:12170; t = 2.0735e+01; dt = 1.7066e-03; 41.5 %
+            [Mach = 1.500019, NRiemann = 2]
+step:12230; t = 2.0837e+01; dt = 1.7066e-03; 41.7 %
+            [Mach = 1.500019, NRiemann = 2]
+step:12240; t = 2.0854e+01; dt = 1.7066e-03; 41.7 %
+            [Mach = 1.500019, NRiemann = 2]
+step:12250; t = 2.0871e+01; dt = 1.7066e-03; 41.7 %
+            [Mach = 1.500019, NRiemann = 2]
+step:12260; t = 2.0888e+01; dt = 1.7066e-03; 41.8 %
+            [Mach = 1.500019, NRiemann = 2]
+step:12290; t = 2.0940e+01; dt = 1.7066e-03; 41.9 %
+            [Mach = 1.500019, NRiemann = 2]
+step:12300; t = 2.0957e+01; dt = 1.7066e-03; 41.9 %
+            [Mach = 1.500019, NRiemann = 2]
+step:12310; t = 2.0974e+01; dt = 1.7066e-03; 41.9 %
+            [Mach = 1.500019, NRiemann = 2]
+step:12320; t = 2.0991e+01; dt = 1.7066e-03; 42.0 %
+            [Mach = 1.500019, NRiemann = 2]
+> Writing file #210 (dbl) to disk...
+  [ 1.00 sec ]
+step:12330; t = 2.1008e+01; dt = 1.7066e-03; 42.0 %
+            [Mach = 1.500019, NRiemann = 2]
+step:12340; t = 2.1025e+01; dt = 1.7066e-03; 42.0 %
+            [Mach = 1.500018, NRiemann = 2]
+> Writing file #211 (dbl) to disk...
+  [ 0.00 sec ]
+step:12390; t = 2.1110e+01; dt = 1.7066e-03; 42.2 %
+            [Mach = 1.500018, NRiemann = 2]
+step:12400; t = 2.1127e+01; dt = 1.7066e-03; 42.3 %
+            [Mach = 1.500018, NRiemann = 2]
+step:12410; t = 2.1144e+01; dt = 1.7066e-03; 42.3 %
+            [Mach = 1.500018, NRiemann = 2]
+> Writing file #212 (dbl) to disk...
+  [ 0.00 sec ]
+step:12450; t = 2.1213e+01; dt = 1.7066e-03; 42.4 %
+            [Mach = 1.500018, NRiemann = 2]
+step:12460; t = 2.1230e+01; dt = 1.7066e-03; 42.5 %
+            [Mach = 1.500018, NRiemann = 2]
+step:12470; t = 2.1247e+01; dt = 1.7066e-03; 42.5 %
+            [Mach = 1.500018, NRiemann = 2]
+step:12480; t = 2.1264e+01; dt = 1.7066e-03; 42.5 %
+            [Mach = 1.500017, NRiemann = 2]
+step:12490; t = 2.1281e+01; dt = 1.7066e-03; 42.6 %
+            [Mach = 1.500017, NRiemann = 2]
+step:12500; t = 2.1298e+01; dt = 1.7066e-03; 42.6 %
+            [Mach = 1.500017, NRiemann = 2]
+> Writing file #213 (dbl) to disk...
+  [ 1.00 sec ]
+step:12510; t = 2.1315e+01; dt = 1.7066e-03; 42.6 %
+            [Mach = 1.500017, NRiemann = 2]
+step:12520; t = 2.1332e+01; dt = 1.7066e-03; 42.7 %
+            [Mach = 1.500017, NRiemann = 2]
+step:12530; t = 2.1349e+01; dt = 1.7066e-03; 42.7 %
+            [Mach = 1.500017, NRiemann = 2]
+> Writing file #214 (dbl) to disk...
+  [ 0.00 sec ]
+step:12560; t = 2.1400e+01; dt = 1.7066e-03; 42.8 %
+            [Mach = 1.500016, NRiemann = 2]
+step:12570; t = 2.1417e+01; dt = 1.7066e-03; 42.8 %
+            [Mach = 1.500016, NRiemann = 2]
+step:12580; t = 2.1434e+01; dt = 1.7066e-03; 42.9 %
+            [Mach = 1.500016, NRiemann = 2]
+step:12590; t = 2.1452e+01; dt = 1.7066e-03; 42.9 %
+            [Mach = 1.500016, NRiemann = 2]
+step:12600; t = 2.1469e+01; dt = 1.7066e-03; 42.9 %
+            [Mach = 1.500016, NRiemann = 2]
+step:12660; t = 2.1571e+01; dt = 1.7066e-03; 43.1 %
+            [Mach = 1.500015, NRiemann = 2]
+step:12670; t = 2.1588e+01; dt = 1.7066e-03; 43.2 %
+            [Mach = 1.500015, NRiemann = 2]
+> Writing file #216 (dbl) to disk...
+  [ 1.00 sec ]
+step:12680; t = 2.1605e+01; dt = 1.7066e-03; 43.2 %
+            [Mach = 1.500015, NRiemann = 2]
+step:12690; t = 2.1622e+01; dt = 1.7066e-03; 43.2 %
+            [Mach = 1.500014, NRiemann = 2]
+step:12700; t = 2.1639e+01; dt = 1.7066e-03; 43.3 %
+            [Mach = 1.500014, NRiemann = 2]
+step:12710; t = 2.1656e+01; dt = 1.7066e-03; 43.3 %
+            [Mach = 1.500014, NRiemann = 2]
+step:12720; t = 2.1673e+01; dt = 1.7066e-03; 43.3 %
+            [Mach = 1.500014, NRiemann = 2]
+step:12730; t = 2.1690e+01; dt = 1.7066e-03; 43.4 %
+            [Mach = 1.500014, NRiemann = 2]
+step:12870; t = 2.1929e+01; dt = 1.7066e-03; 43.9 %
+            [Mach = 1.500011, NRiemann = 2]
+step:12880; t = 2.1946e+01; dt = 1.7066e-03; 43.9 %
+            [Mach = 1.500011, NRiemann = 2]
+step:12890; t = 2.1964e+01; dt = 1.7066e-03; 43.9 %
+            [Mach = 1.500010, NRiemann = 2]
+step:12900; t = 2.1981e+01; dt = 1.7066e-03; 44.0 %
+            [Mach = 1.500010, NRiemann = 2]
+step:12910; t = 2.1998e+01; dt = 1.7066e-03; 44.0 %
+            [Mach = 1.500010, NRiemann = 2]
+> Writing file #220 (dbl) to disk...
+  [ 1.00 sec ]
+step:12920; t = 2.2015e+01; dt = 1.7066e-03; 44.0 %
+            [Mach = 1.500010, NRiemann = 2]
+step:12930; t = 2.2032e+01; dt = 1.7066e-03; 44.1 %
+            [Mach = 1.500010, NRiemann = 2]
+step:12940; t = 2.2049e+01; dt = 1.7066e-03; 44.1 %
+            [Mach = 1.500009, NRiemann = 2]
+step:12950; t = 2.2066e+01; dt = 1.7066e-03; 44.1 %
+            [Mach = 1.500009, NRiemann = 2]
+step:12980; t = 2.2117e+01; dt = 1.7066e-03; 44.2 %
+            [Mach = 1.500009, NRiemann = 2]
+step:12990; t = 2.2134e+01; dt = 1.7066e-03; 44.3 %
+            [Mach = 1.500009, NRiemann = 2]
+step:13000; t = 2.2151e+01; dt = 1.7066e-03; 44.3 %
+            [Mach = 1.500008, NRiemann = 2]
+step:13010; t = 2.2168e+01; dt = 1.7066e-03; 44.3 %
+            [Mach = 1.500008, NRiemann = 2]
+step:13020; t = 2.2185e+01; dt = 1.7066e-03; 44.4 %
+            [Mach = 1.500008, NRiemann = 2]
+step:13060; t = 2.2254e+01; dt = 1.7066e-03; 44.5 %
+            [Mach = 1.500008, NRiemann = 2]
+step:13070; t = 2.2271e+01; dt = 1.7066e-03; 44.5 %
+            [Mach = 1.500008, NRiemann = 2]
+step:13080; t = 2.2288e+01; dt = 1.7066e-03; 44.6 %
+            [Mach = 1.500008, NRiemann = 2]
+step:13290; t = 2.2646e+01; dt = 1.7066e-03; 45.3 %
+            [Mach = 1.500011, NRiemann = 2]
+step:13300; t = 2.2663e+01; dt = 1.7066e-03; 45.3 %
+            [Mach = 1.500012, NRiemann = 2]
+step:13310; t = 2.2680e+01; dt = 1.7066e-03; 45.4 %
+            [Mach = 1.500012, NRiemann = 2]
+step:13320; t = 2.2697e+01; dt = 1.7066e-03; 45.4 %
+            [Mach = 1.500012, NRiemann = 2]
+> Writing file #227 (dbl) to disk...
+  [ 2.00 sec ]
+step:13330; t = 2.2714e+01; dt = 1.7066e-03; 45.4 %
+            [Mach = 1.500012, NRiemann = 2]
+step:13340; t = 2.2731e+01; dt = 1.7066e-03; 45.5 %
+            [Mach = 1.500012, NRiemann = 2]
+step:13350; t = 2.2749e+01; dt = 1.7066e-03; 45.5 %
+            [Mach = 1.500012, NRiemann = 2]
+step:13360; t = 2.2766e+01; dt = 1.7066e-03; 45.5 %
+            [Mach = 1.500013, NRiemann = 2]
+step:13370; t = 2.2783e+01; dt = 1.7066e-03; 45.6 %
+            [Mach = 1.500013, NRiemann = 2]
+step:13380; t = 2.2800e+01; dt = 1.7066e-03; 45.6 %
+> Writing file #228 (dbl) to disk...
+  [ 1.00 sec ]
+            [Mach = 1.500013, NRiemann = 2]
+step:13470; t = 2.2953e+01; dt = 1.7066e-03; 45.9 %
+            [Mach = 1.500014, NRiemann = 2]
+step:13480; t = 2.2970e+01; dt = 1.7066e-03; 45.9 %
+            [Mach = 1.500015, NRiemann = 2]
+step:13490; t = 2.2987e+01; dt = 1.7066e-03; 46.0 %
+            [Mach = 1.500015, NRiemann = 2]
+> Writing file #230 (dbl) to disk...
+  [ 1.00 sec ]
+step:13500; t = 2.3005e+01; dt = 1.7066e-03; 46.0 %
+            [Mach = 1.500015, NRiemann = 2]
+step:13510; t = 2.3022e+01; dt = 1.7066e-03; 46.0 %
+            [Mach = 1.500015, NRiemann = 2]
+step:13550; t = 2.3090e+01; dt = 1.7066e-03; 46.2 %
+            [Mach = 1.500016, NRiemann = 2]
+> Writing file #231 (dbl) to disk...
+  [ 1.00 sec ]
+step:13560; t = 2.3107e+01; dt = 1.7066e-03; 46.2 %
+            [Mach = 1.500016, NRiemann = 2]
+step:13570; t = 2.3124e+01; dt = 1.7066e-03; 46.2 %
+            [Mach = 1.500016, NRiemann = 2]
+step:13580; t = 2.3141e+01; dt = 1.7066e-03; 46.3 %
+            [Mach = 1.500016, NRiemann = 2]
+> Writing file #232 (dbl) to disk...
+  [ 1.00 sec ]
+step:13620; t = 2.3209e+01; dt = 1.7066e-03; 46.4 %
+            [Mach = 1.500016, NRiemann = 2]
+step:13690; t = 2.3329e+01; dt = 1.7066e-03; 46.7 %
+            [Mach = 1.500017, NRiemann = 2]
+step:13700; t = 2.3346e+01; dt = 1.7066e-03; 46.7 %
+            [Mach = 1.500017, NRiemann = 2]
+step:13710; t = 2.3363e+01; dt = 1.7066e-03; 46.7 %
+            [Mach = 1.500017, NRiemann = 2]
+step:13720; t = 2.3380e+01; dt = 1.7066e-03; 46.8 %
+            [Mach = 1.500017, NRiemann = 2]
+step:13730; t = 2.3397e+01; dt = 1.7066e-03; 46.8 %
+            [Mach = 1.500017, NRiemann = 2]
+step:13760; t = 2.3448e+01; dt = 1.7066e-03; 46.9 %
+            [Mach = 1.500018, NRiemann = 2]
+step:13770; t = 2.3465e+01; dt = 1.7066e-03; 46.9 %
+            [Mach = 1.500018, NRiemann = 2]
+step:13780; t = 2.3482e+01; dt = 1.7066e-03; 47.0 %
+            [Mach = 1.500018, NRiemann = 2]
+step:13790; t = 2.3499e+01; dt = 1.7066e-03; 47.0 %
+> Writing file #235 (dbl) to disk...
+  [ 1.00 sec ]
+            [Mach = 1.500018, NRiemann = 2]
+step:13800; t = 2.3517e+01; dt = 1.7066e-03; 47.0 %
+            [Mach = 1.500018, NRiemann = 2]
+step:13810; t = 2.3534e+01; dt = 1.7066e-03; 47.1 %
+            [Mach = 1.500018, NRiemann = 2]
+step:13880; t = 2.3653e+01; dt = 1.7066e-03; 47.3 %
+            [Mach = 1.500018, NRiemann = 2]
+step:13890; t = 2.3670e+01; dt = 1.7066e-03; 47.3 %
+            [Mach = 1.500018, NRiemann = 2]
+step:13900; t = 2.3687e+01; dt = 1.7066e-03; 47.4 %
+            [Mach = 1.500018, NRiemann = 2]
+step:13980; t = 2.3824e+01; dt = 1.7066e-03; 47.6 %
+            [Mach = 1.500019, NRiemann = 2]
+step:13990; t = 2.3841e+01; dt = 1.7066e-03; 47.7 %
+            [Mach = 1.500019, NRiemann = 2]
+step:14000; t = 2.3858e+01; dt = 1.7066e-03; 47.7 %
+            [Mach = 1.500019, NRiemann = 2]
+step:14010; t = 2.3875e+01; dt = 1.7066e-03; 47.7 %
+            [Mach = 1.500019, NRiemann = 2]
+step:14020; t = 2.3892e+01; dt = 1.7066e-03; 47.8 %
+            [Mach = 1.500019, NRiemann = 2]
+> Writing file #239 (dbl) to disk...
+  [ 1.00 sec ]
+step:14030; t = 2.3909e+01; dt = 1.7066e-03; 47.8 %
+            [Mach = 1.500019, NRiemann = 2]
+step:14040; t = 2.3926e+01; dt = 1.7066e-03; 47.9 %
+            [Mach = 1.500019, NRiemann = 2]
+step:14050; t = 2.3943e+01; dt = 1.7066e-03; 47.9 %
+            [Mach = 1.500019, NRiemann = 2]
+> Writing file #240 (dbl) to disk...
+  [ 1.00 sec ]
+step:14090; t = 2.4011e+01; dt = 1.7066e-03; 48.0 %
+            [Mach = 1.500018, NRiemann = 2]
+step:14100; t = 2.4029e+01; dt = 1.7066e-03; 48.1 %
+            [Mach = 1.500018, NRiemann = 2]
+step:14110; t = 2.4046e+01; dt = 1.7066e-03; 48.1 %
+            [Mach = 1.500018, NRiemann = 2]
+step:14120; t = 2.4063e+01; dt = 1.7066e-03; 48.1 %
+            [Mach = 1.500018, NRiemann = 2]
+step:14130; t = 2.4080e+01; dt = 1.7066e-03; 48.2 %
+            [Mach = 1.500018, NRiemann = 2]
+step:14140; t = 2.4097e+01; dt = 1.7066e-03; 48.2 %
+            [Mach = 1.500018, NRiemann = 2]
+> Writing file #241 (dbl) to disk...
+  [ 1.00 sec ]
+step:14150; t = 2.4114e+01; dt = 1.7066e-03; 48.2 %
+            [Mach = 1.500018, NRiemann = 2]
+step:14160; t = 2.4131e+01; dt = 1.7066e-03; 48.3 %
+            [Mach = 1.500018, NRiemann = 2]
+step:14170; t = 2.4148e+01; dt = 1.7066e-03; 48.3 %
+            [Mach = 1.500018, NRiemann = 2]
+step:14180; t = 2.4165e+01; dt = 1.7066e-03; 48.3 %
+            [Mach = 1.500018, NRiemann = 2]
+step:14190; t = 2.4182e+01; dt = 1.7066e-03; 48.4 %
+            [Mach = 1.500018, NRiemann = 2]
+step:14200; t = 2.4199e+01; dt = 1.7066e-03; 48.4 %
+> Writing file #242 (dbl) to disk...
+  [ 1.00 sec ]
+            [Mach = 1.500018, NRiemann = 2]
+step:14210; t = 2.4216e+01; dt = 1.7066e-03; 48.4 %
+            [Mach = 1.500018, NRiemann = 2]
+step:14220; t = 2.4233e+01; dt = 1.7066e-03; 48.5 %
+            [Mach = 1.500018, NRiemann = 2]
+> Writing file #244 (dbl) to disk...
+  [ 1.00 sec ]
+step:14320; t = 2.4404e+01; dt = 1.7066e-03; 48.8 %
+            [Mach = 1.500017, NRiemann = 2]
+step:14330; t = 2.4421e+01; dt = 1.7066e-03; 48.8 %
+            [Mach = 1.500016, NRiemann = 2]
+step:14340; t = 2.4438e+01; dt = 1.7066e-03; 48.9 %
+            [Mach = 1.500016, NRiemann = 2]
+step:14350; t = 2.4455e+01; dt = 1.7066e-03; 48.9 %
+            [Mach = 1.500016, NRiemann = 2]
+step:14360; t = 2.4472e+01; dt = 1.7066e-03; 48.9 %
+            [Mach = 1.500016, NRiemann = 2]
+step:14390; t = 2.4523e+01; dt = 1.7066e-03; 49.0 %
+            [Mach = 1.500016, NRiemann = 2]
+step:14400; t = 2.4541e+01; dt = 1.7066e-03; 49.1 %
+            [Mach = 1.500015, NRiemann = 2]
+step:14410; t = 2.4558e+01; dt = 1.7066e-03; 49.1 %
+            [Mach = 1.500015, NRiemann = 2]
+step:14420; t = 2.4575e+01; dt = 1.7066e-03; 49.1 %
+            [Mach = 1.500015, NRiemann = 2]
+step:14430; t = 2.4592e+01; dt = 1.7066e-03; 49.2 %
+            [Mach = 1.500015, NRiemann = 2]
+step:14460; t = 2.4643e+01; dt = 1.7066e-03; 49.3 %
+            [Mach = 1.500015, NRiemann = 2]
+step:14470; t = 2.4660e+01; dt = 1.7066e-03; 49.3 %
+            [Mach = 1.500014, NRiemann = 2]
+step:14480; t = 2.4677e+01; dt = 1.7066e-03; 49.4 %
+            [Mach = 1.500014, NRiemann = 2]
+step:14490; t = 2.4694e+01; dt = 1.7066e-03; 49.4 %
+            [Mach = 1.500014, NRiemann = 2]
+> Writing file #247 (dbl) to disk...
+  [ 1.00 sec ]
+step:14500; t = 2.4711e+01; dt = 1.7066e-03; 49.4 %
+            [Mach = 1.500014, NRiemann = 2]
+step:14510; t = 2.4728e+01; dt = 1.7066e-03; 49.5 %
+            [Mach = 1.500014, NRiemann = 2]
+> Writing file #248 (dbl) to disk...
+  [ 1.00 sec ]
+step:14560; t = 2.4814e+01; dt = 1.7066e-03; 49.6 %
+            [Mach = 1.500013, NRiemann = 2]
+step:14570; t = 2.4831e+01; dt = 1.7066e-03; 49.7 %
+            [Mach = 1.500013, NRiemann = 2]
+step:14580; t = 2.4848e+01; dt = 1.7066e-03; 49.7 %
+            [Mach = 1.500013, NRiemann = 2]
+step:14590; t = 2.4865e+01; dt = 1.7066e-03; 49.7 %
+            [Mach = 1.500013, NRiemann = 2]
+step:14600; t = 2.4882e+01; dt = 1.7066e-03; 49.8 %
+            [Mach = 1.500013, NRiemann = 2]
+step:14640; t = 2.4950e+01; dt = 1.7066e-03; 49.9 %
+            [Mach = 1.500012, NRiemann = 2]
+step:14650; t = 2.4967e+01; dt = 1.7066e-03; 49.9 %
+            [Mach = 1.500012, NRiemann = 2]
+step:14660; t = 2.4984e+01; dt = 1.7066e-03; 50.0 %
+            [Mach = 1.500012, NRiemann = 2]
+> Writing file #250 (dbl) to disk...
+  [ 0.00 sec ]
+step:14670; t = 2.5001e+01; dt = 1.7066e-03; 50.0 %
+            [Mach = 1.500012, NRiemann = 2]
+step:14680; t = 2.5018e+01; dt = 1.7066e-03; 50.0 %
+            [Mach = 1.500011, NRiemann = 2]
+step:14690; t = 2.5035e+01; dt = 1.7066e-03; 50.1 %
+            [Mach = 1.500011, NRiemann = 2]
+step:14700; t = 2.5052e+01; dt = 1.7066e-03; 50.1 %
+            [Mach = 1.500011, NRiemann = 2]
+step:14710; t = 2.5070e+01; dt = 1.7066e-03; 50.1 %
+            [Mach = 1.500011, NRiemann = 2]
+step:14720; t = 2.5087e+01; dt = 1.7066e-03; 50.2 %
+            [Mach = 1.500011, NRiemann = 2]
+step:14960; t = 2.5496e+01; dt = 1.7066e-03; 51.0 %
+            [Mach = 1.500008, NRiemann = 2]
+> Writing file #255 (dbl) to disk...
+  [ 1.00 sec ]
+step:14970; t = 2.5513e+01; dt = 1.7066e-03; 51.0 %
+            [Mach = 1.500007, NRiemann = 2]
+step:14980; t = 2.5530e+01; dt = 1.7066e-03; 51.1 %
+            [Mach = 1.500007, NRiemann = 2]
+step:14990; t = 2.5547e+01; dt = 1.7066e-03; 51.1 %
+            [Mach = 1.500007, NRiemann = 2]
+step:15030; t = 2.5616e+01; dt = 1.7066e-03; 51.2 %
+            [Mach = 1.500007, NRiemann = 2]
+step:15040; t = 2.5633e+01; dt = 1.7066e-03; 51.3 %
+            [Mach = 1.500007, NRiemann = 2]
+step:15050; t = 2.5650e+01; dt = 1.7066e-03; 51.3 %
+            [Mach = 1.500007, NRiemann = 2]
+step:15060; t = 2.5667e+01; dt = 1.7066e-03; 51.3 %
+            [Mach = 1.500008, NRiemann = 2]
+step:15070; t = 2.5684e+01; dt = 1.7066e-03; 51.4 %
+            [Mach = 1.500008, NRiemann = 2]
+> Writing file #257 (dbl) to disk...
+  [ 1.00 sec ]
+step:15080; t = 2.5701e+01; dt = 1.7066e-03; 51.4 %
+            [Mach = 1.500008, NRiemann = 2]
+> Writing file #258 (dbl) to disk...
+  [ 2.00 sec ]
+step:15140; t = 2.5803e+01; dt = 1.7066e-03; 51.6 %
+            [Mach = 1.500009, NRiemann = 2]
+step:15150; t = 2.5820e+01; dt = 1.7066e-03; 51.6 %
+            [Mach = 1.500009, NRiemann = 2]
+step:15160; t = 2.5838e+01; dt = 1.7066e-03; 51.7 %
+            [Mach = 1.500009, NRiemann = 2]
+step:15170; t = 2.5855e+01; dt = 1.7066e-03; 51.7 %
+            [Mach = 1.500009, NRiemann = 2]
+> Writing file #259 (dbl) to disk...
+  [ 0.00 sec ]
+step:15200; t = 2.5906e+01; dt = 1.7066e-03; 51.8 %
+            [Mach = 1.500010, NRiemann = 2]
+step:15210; t = 2.5923e+01; dt = 1.7066e-03; 51.8 %
+            [Mach = 1.500010, NRiemann = 2]
+step:15220; t = 2.5940e+01; dt = 1.7066e-03; 51.9 %
+            [Mach = 1.500011, NRiemann = 2]
+step:15230; t = 2.5957e+01; dt = 1.7066e-03; 51.9 %
+            [Mach = 1.500011, NRiemann = 2]
+step:15240; t = 2.5974e+01; dt = 1.7066e-03; 51.9 %
+            [Mach = 1.500011, NRiemann = 2]
+step:15250; t = 2.5991e+01; dt = 1.7066e-03; 52.0 %
+            [Mach = 1.500011, NRiemann = 2]
+step:15280; t = 2.6042e+01; dt = 1.7066e-03; 52.1 %
+            [Mach = 1.500012, NRiemann = 2]
+step:15290; t = 2.6059e+01; dt = 1.7066e-03; 52.1 %
+            [Mach = 1.500012, NRiemann = 2]
+step:15300; t = 2.6076e+01; dt = 1.7066e-03; 52.2 %
+            [Mach = 1.500012, NRiemann = 2]
+step:15310; t = 2.6094e+01; dt = 1.7066e-03; 52.2 %
+            [Mach = 1.500012, NRiemann = 2]
+> Writing file #262 (dbl) to disk...
+  [ 1.00 sec ]
+step:15380; t = 2.6213e+01; dt = 1.7066e-03; 52.4 %
+            [Mach = 1.500014, NRiemann = 2]
+step:15390; t = 2.6230e+01; dt = 1.7066e-03; 52.5 %
+            [Mach = 1.500014, NRiemann = 2]
+step:15400; t = 2.6247e+01; dt = 1.7066e-03; 52.5 %
+            [Mach = 1.500014, NRiemann = 2]
+step:15410; t = 2.6264e+01; dt = 1.7066e-03; 52.5 %
+            [Mach = 1.500014, NRiemann = 2]
+step:15420; t = 2.6281e+01; dt = 1.7066e-03; 52.6 %
+            [Mach = 1.500014, NRiemann = 2]
+step:15430; t = 2.6298e+01; dt = 1.7066e-03; 52.6 %
+> Writing file #263 (dbl) to disk...
+  [ 1.00 sec ]
+            [Mach = 1.500015, NRiemann = 2]
+step:15440; t = 2.6315e+01; dt = 1.7066e-03; 52.6 %
+            [Mach = 1.500015, NRiemann = 2]
+step:15450; t = 2.6332e+01; dt = 1.7066e-03; 52.7 %
+            [Mach = 1.500015, NRiemann = 2]
+step:15460; t = 2.6350e+01; dt = 1.7066e-03; 52.7 %
+            [Mach = 1.500015, NRiemann = 2]
+step:15470; t = 2.6367e+01; dt = 1.7066e-03; 52.7 %
+            [Mach = 1.500015, NRiemann = 2]
+step:15480; t = 2.6384e+01; dt = 1.7066e-03; 52.8 %
+            [Mach = 1.500015, NRiemann = 2]
+step:15540; t = 2.6486e+01; dt = 1.7066e-03; 53.0 %
+            [Mach = 1.500016, NRiemann = 2]
+> Writing file #265 (dbl) to disk...
+  [ 1.00 sec ]
+step:15550; t = 2.6503e+01; dt = 1.7066e-03; 53.0 %
+            [Mach = 1.500016, NRiemann = 2]
+step:15560; t = 2.6520e+01; dt = 1.7066e-03; 53.0 %
+            [Mach = 1.500016, NRiemann = 2]
+step:15600; t = 2.6588e+01; dt = 1.7066e-03; 53.2 %
+            [Mach = 1.500017, NRiemann = 2]
+> Writing file #266 (dbl) to disk...
+  [ 1.00 sec ]
+step:15610; t = 2.6606e+01; dt = 1.7066e-03; 53.2 %
+            [Mach = 1.500017, NRiemann = 2]
+> Writing file #267 (dbl) to disk...
+  [ 0.00 sec ]
+step:15670; t = 2.6708e+01; dt = 1.7066e-03; 53.4 %
+            [Mach = 1.500017, NRiemann = 2]
+step:15680; t = 2.6725e+01; dt = 1.7066e-03; 53.4 %
+            [Mach = 1.500018, NRiemann = 2]
+step:15690; t = 2.6742e+01; dt = 1.7066e-03; 53.5 %
+            [Mach = 1.500018, NRiemann = 2]
+step:15700; t = 2.6759e+01; dt = 1.7066e-03; 53.5 %
+            [Mach = 1.500018, NRiemann = 2]
+step:15710; t = 2.6776e+01; dt = 1.7066e-03; 53.6 %
+            [Mach = 1.500018, NRiemann = 2]
+step:15720; t = 2.6793e+01; dt = 1.7066e-03; 53.6 %
+            [Mach = 1.500018, NRiemann = 2]
+> Writing file #268 (dbl) to disk...
+  [ 0.00 sec ]
+step:15730; t = 2.6810e+01; dt = 1.7066e-03; 53.6 %
+            [Mach = 1.500018, NRiemann = 2]
+step:15780; t = 2.6896e+01; dt = 1.7066e-03; 53.8 %
+            [Mach = 1.500018, NRiemann = 2]
+> Writing file #269 (dbl) to disk...
+  [ 0.00 sec ]
+step:15790; t = 2.6913e+01; dt = 1.7066e-03; 53.8 %
+            [Mach = 1.500018, NRiemann = 2]
+step:15800; t = 2.6930e+01; dt = 1.7066e-03; 53.9 %
+            [Mach = 1.500018, NRiemann = 2]
+step:15810; t = 2.6947e+01; dt = 1.7066e-03; 53.9 %
+            [Mach = 1.500018, NRiemann = 2]
+step:15820; t = 2.6964e+01; dt = 1.7066e-03; 53.9 %
+            [Mach = 1.500018, NRiemann = 2]
+step:15830; t = 2.6981e+01; dt = 1.7066e-03; 54.0 %
+            [Mach = 1.500018, NRiemann = 2]
+step:15840; t = 2.6998e+01; dt = 1.7066e-03; 54.0 %
+            [Mach = 1.500018, NRiemann = 2]
+> Writing file #270 (dbl) to disk...
+  [ 1.00 sec ]
+step:15850; t = 2.7015e+01; dt = 1.7066e-03; 54.0 %
+            [Mach = 1.500018, NRiemann = 2]
+step:15860; t = 2.7032e+01; dt = 1.7066e-03; 54.1 %
+            [Mach = 1.500018, NRiemann = 2]
+step:15870; t = 2.7049e+01; dt = 1.7066e-03; 54.1 %
+            [Mach = 1.500018, NRiemann = 2]
+step:15880; t = 2.7066e+01; dt = 1.7066e-03; 54.1 %
+            [Mach = 1.500018, NRiemann = 2]
+step:15890; t = 2.7083e+01; dt = 1.7066e-03; 54.2 %
+            [Mach = 1.500018, NRiemann = 2]
+> Writing file #271 (dbl) to disk...
+  [ 0.00 sec ]
+step:15900; t = 2.7100e+01; dt = 1.7066e-03; 54.2 %
+            [Mach = 1.500018, NRiemann = 2]
+step:15910; t = 2.7117e+01; dt = 1.7066e-03; 54.2 %
+            [Mach = 1.500018, NRiemann = 2]
+step:15920; t = 2.7135e+01; dt = 1.7066e-03; 54.3 %
+            [Mach = 1.500018, NRiemann = 2]
+step:15930; t = 2.7152e+01; dt = 1.7066e-03; 54.3 %
+            [Mach = 1.500018, NRiemann = 2]
+step:15940; t = 2.7169e+01; dt = 1.7066e-03; 54.3 %
+            [Mach = 1.500018, NRiemann = 2]
+step:15950; t = 2.7186e+01; dt = 1.7066e-03; 54.4 %
+            [Mach = 1.500018, NRiemann = 2]
+> Writing file #273 (dbl) to disk...
+  [ 1.00 sec ]
+step:16020; t = 2.7305e+01; dt = 1.7066e-03; 54.6 %
+            [Mach = 1.500018, NRiemann = 2]
+step:16030; t = 2.7322e+01; dt = 1.7066e-03; 54.6 %
+            [Mach = 1.500018, NRiemann = 2]
+> Writing file #275 (dbl) to disk...
+  [ 1.00 sec ]
+step:16140; t = 2.7510e+01; dt = 1.7066e-03; 55.0 %
+            [Mach = 1.500017, NRiemann = 2]
+step:16150; t = 2.7527e+01; dt = 1.7066e-03; 55.1 %
+            [Mach = 1.500017, NRiemann = 2]
+step:16160; t = 2.7544e+01; dt = 1.7066e-03; 55.1 %
+            [Mach = 1.500017, NRiemann = 2]
+step:16170; t = 2.7561e+01; dt = 1.7066e-03; 55.1 %
+            [Mach = 1.500017, NRiemann = 2]
+step:16250; t = 2.7698e+01; dt = 1.7066e-03; 55.4 %
+            [Mach = 1.500016, NRiemann = 2]
+> Writing file #277 (dbl) to disk...
+  [ 1.00 sec ]
+step:16260; t = 2.7715e+01; dt = 1.7066e-03; 55.4 %
+            [Mach = 1.500016, NRiemann = 2]
+step:16340; t = 2.7851e+01; dt = 1.7066e-03; 55.7 %
+            [Mach = 1.500015, NRiemann = 2]
+step:16350; t = 2.7868e+01; dt = 1.7066e-03; 55.7 %
+            [Mach = 1.500015, NRiemann = 2]
+step:16360; t = 2.7885e+01; dt = 1.7066e-03; 55.8 %
+            [Mach = 1.500015, NRiemann = 2]
+> Writing file #279 (dbl) to disk...
+  [ 1.00 sec ]
+step:16370; t = 2.7903e+01; dt = 1.7066e-03; 55.8 %
+            [Mach = 1.500015, NRiemann = 2]
+step:16380; t = 2.7920e+01; dt = 1.7066e-03; 55.8 %
+            [Mach = 1.500015, NRiemann = 2]
+> Writing file #280 (dbl) to disk...
+  [ 1.00 sec ]
+step:16430; t = 2.8005e+01; dt = 1.7066e-03; 56.0 %
+            [Mach = 1.500014, NRiemann = 2]
+step:16440; t = 2.8022e+01; dt = 1.7066e-03; 56.0 %
+            [Mach = 1.500014, NRiemann = 2]
+step:16450; t = 2.8039e+01; dt = 1.7066e-03; 56.1 %
+            [Mach = 1.500014, NRiemann = 2]
+step:16500; t = 2.8124e+01; dt = 1.7066e-03; 56.2 %
+            [Mach = 1.500013, NRiemann = 2]
+step:16510; t = 2.8141e+01; dt = 1.7066e-03; 56.3 %
+            [Mach = 1.500013, NRiemann = 2]
+step:16520; t = 2.8159e+01; dt = 1.7066e-03; 56.3 %
+            [Mach = 1.500013, NRiemann = 2]
+step:16530; t = 2.8176e+01; dt = 1.7066e-03; 56.4 %
+            [Mach = 1.500013, NRiemann = 2]
+step:16540; t = 2.8193e+01; dt = 1.7066e-03; 56.4 %
+            [Mach = 1.500013, NRiemann = 2]
+> Writing file #283 (dbl) to disk...
+  [ 2.00 sec ]
+step:16610; t = 2.8312e+01; dt = 1.7066e-03; 56.6 %
+            [Mach = 1.500011, NRiemann = 2]
+step:16620; t = 2.8329e+01; dt = 1.7066e-03; 56.7 %
+            [Mach = 1.500011, NRiemann = 2]
+> Writing file #284 (dbl) to disk...
+  [ 1.00 sec ]
+step:16670; t = 2.8415e+01; dt = 1.7066e-03; 56.8 %
+            [Mach = 1.500010, NRiemann = 2]
+step:16680; t = 2.8432e+01; dt = 1.7066e-03; 56.9 %
+            [Mach = 1.500010, NRiemann = 2]
+step:16690; t = 2.8449e+01; dt = 1.7066e-03; 56.9 %
+            [Mach = 1.500010, NRiemann = 2]
+step:16700; t = 2.8466e+01; dt = 1.7066e-03; 56.9 %
+            [Mach = 1.500010, NRiemann = 2]
+step:16710; t = 2.8483e+01; dt = 1.7066e-03; 57.0 %
+            [Mach = 1.500010, NRiemann = 2]
+step:16740; t = 2.8534e+01; dt = 1.7066e-03; 57.1 %
+            [Mach = 1.500009, NRiemann = 2]
+step:16750; t = 2.8551e+01; dt = 1.7066e-03; 57.1 %
+            [Mach = 1.500009, NRiemann = 2]
+step:16760; t = 2.8568e+01; dt = 1.7066e-03; 57.1 %
+            [Mach = 1.500009, NRiemann = 2]
+step:16770; t = 2.8585e+01; dt = 1.7066e-03; 57.2 %
+            [Mach = 1.500009, NRiemann = 2]
+> Writing file #286 (dbl) to disk...
+  [ 1.00 sec ]
+step:16780; t = 2.8602e+01; dt = 1.7066e-03; 57.2 %
+            [Mach = 1.500008, NRiemann = 2]
+step:16790; t = 2.8619e+01; dt = 1.7066e-03; 57.2 %
+            [Mach = 1.500008, NRiemann = 2]
+step:16800; t = 2.8636e+01; dt = 1.7066e-03; 57.3 %
+            [Mach = 1.500008, NRiemann = 2]
+> Writing file #287 (dbl) to disk...
+  [ 0.00 sec ]
+step:16840; t = 2.8705e+01; dt = 1.7066e-03; 57.4 %
+            [Mach = 1.500007, NRiemann = 2]
+step:16850; t = 2.8722e+01; dt = 1.7066e-03; 57.4 %
+            [Mach = 1.500007, NRiemann = 2]
+step:16870; t = 2.8756e+01; dt = 1.7066e-03; 57.5 %
+            [Mach = 1.500007, NRiemann = 2]
+step:16880; t = 2.8773e+01; dt = 1.7066e-03; 57.5 %
+            [Mach = 1.500007, NRiemann = 2]
+step:16890; t = 2.8790e+01; dt = 1.7066e-03; 57.6 %
+            [Mach = 1.500008, NRiemann = 2]
+> Writing file #288 (dbl) to disk...
+  [ 1.00 sec ]
+step:16900; t = 2.8807e+01; dt = 1.7066e-03; 57.6 %
+            [Mach = 1.500008, NRiemann = 2]
+step:16910; t = 2.8824e+01; dt = 1.7066e-03; 57.6 %
+            [Mach = 1.500008, NRiemann = 2]
+step:16920; t = 2.8841e+01; dt = 1.7066e-03; 57.7 %
+            [Mach = 1.500008, NRiemann = 2]
+step:16930; t = 2.8858e+01; dt = 1.7066e-03; 57.7 %
+            [Mach = 1.500008, NRiemann = 2]
+step:16980; t = 2.8944e+01; dt = 1.7066e-03; 57.9 %
+            [Mach = 1.500009, NRiemann = 2]
+step:16990; t = 2.8961e+01; dt = 1.7066e-03; 57.9 %
+            [Mach = 1.500009, NRiemann = 2]
+step:17000; t = 2.8978e+01; dt = 1.7066e-03; 58.0 %
+            [Mach = 1.500009, NRiemann = 2]
+step:17010; t = 2.8995e+01; dt = 1.7066e-03; 58.0 %
+            [Mach = 1.500009, NRiemann = 2]
+> Writing file #290 (dbl) to disk...
+  [ 1.00 sec ]
+step:17020; t = 2.9012e+01; dt = 1.7066e-03; 58.0 %
+            [Mach = 1.500009, NRiemann = 2]
+step:17030; t = 2.9029e+01; dt = 1.7066e-03; 58.1 %
+            [Mach = 1.500009, NRiemann = 2]
+step:17040; t = 2.9046e+01; dt = 1.7066e-03; 58.1 %
+            [Mach = 1.500009, NRiemann = 2]
+step:17050; t = 2.9063e+01; dt = 1.7066e-03; 58.1 %
+            [Mach = 1.500009, NRiemann = 2]
+step:17060; t = 2.9080e+01; dt = 1.7066e-03; 58.2 %
+            [Mach = 1.500010, NRiemann = 2]
+step:17070; t = 2.9097e+01; dt = 1.7066e-03; 58.2 %
+            [Mach = 1.500010, NRiemann = 2]
+> Writing file #291 (dbl) to disk...
+  [ 1.00 sec ]
+step:17080; t = 2.9114e+01; dt = 1.7066e-03; 58.2 %
+            [Mach = 1.500010, NRiemann = 2]
+step:17120; t = 2.9183e+01; dt = 1.7066e-03; 58.4 %
+            [Mach = 1.500010, NRiemann = 2]
+step:17130; t = 2.9200e+01; dt = 1.7066e-03; 58.4 %
+> Writing file #292 (dbl) to disk...
+  [ 0.00 sec ]
+            [Mach = 1.500010, NRiemann = 2]
+step:17140; t = 2.9217e+01; dt = 1.7066e-03; 58.4 %
+            [Mach = 1.500010, NRiemann = 2]
+step:17150; t = 2.9234e+01; dt = 1.7066e-03; 58.5 %
+            [Mach = 1.500011, NRiemann = 2]
+step:17160; t = 2.9251e+01; dt = 1.7066e-03; 58.5 %
+            [Mach = 1.500011, NRiemann = 2]
+step:17170; t = 2.9268e+01; dt = 1.7066e-03; 58.5 %
+            [Mach = 1.500011, NRiemann = 2]
+step:17180; t = 2.9285e+01; dt = 1.7066e-03; 58.6 %
+            [Mach = 1.500011, NRiemann = 2]
+> Writing file #293 (dbl) to disk...
+  [ 2.00 sec ]
+step:17190; t = 2.9302e+01; dt = 1.7066e-03; 58.6 %
+            [Mach = 1.500011, NRiemann = 2]
+step:17200; t = 2.9319e+01; dt = 1.7066e-03; 58.6 %
+            [Mach = 1.500011, NRiemann = 2]
+step:17240; t = 2.9387e+01; dt = 1.7066e-03; 58.8 %
+            [Mach = 1.500012, NRiemann = 2]
+> Writing file #294 (dbl) to disk...
+  [ 1.00 sec ]
+step:17250; t = 2.9404e+01; dt = 1.7066e-03; 58.8 %
+            [Mach = 1.500012, NRiemann = 2]
+step:17260; t = 2.9421e+01; dt = 1.7066e-03; 58.8 %
+            [Mach = 1.500012, NRiemann = 2]
+step:17270; t = 2.9438e+01; dt = 1.7066e-03; 58.9 %
+            [Mach = 1.500012, NRiemann = 2]
+> Writing file #295 (dbl) to disk...
+  [ 0.00 sec ]
+step:17310; t = 2.9507e+01; dt = 1.7066e-03; 59.0 %
+            [Mach = 1.500013, NRiemann = 2]
+step:17380; t = 2.9626e+01; dt = 1.7066e-03; 59.3 %
+            [Mach = 1.500014, NRiemann = 2]
+step:17390; t = 2.9643e+01; dt = 1.7066e-03; 59.3 %
+            [Mach = 1.500014, NRiemann = 2]
+step:17400; t = 2.9660e+01; dt = 1.7066e-03; 59.3 %
+            [Mach = 1.500014, NRiemann = 2]
+step:17410; t = 2.9677e+01; dt = 1.7066e-03; 59.4 %
+            [Mach = 1.500014, NRiemann = 2]
+step:17420; t = 2.9694e+01; dt = 1.7066e-03; 59.4 %
+            [Mach = 1.500014, NRiemann = 2]
+step:17480; t = 2.9797e+01; dt = 1.7066e-03; 59.6 %
+            [Mach = 1.500015, NRiemann = 2]
+> Writing file #298 (dbl) to disk...
+  [ 2.00 sec ]
+step:17490; t = 2.9814e+01; dt = 1.7066e-03; 59.6 %
+            [Mach = 1.500015, NRiemann = 2]
+step:17560; t = 2.9933e+01; dt = 1.7066e-03; 59.9 %
+            [Mach = 1.500016, NRiemann = 2]
+step:17570; t = 2.9950e+01; dt = 1.7066e-03; 59.9 %
+            [Mach = 1.500017, NRiemann = 2]
+step:17580; t = 2.9968e+01; dt = 1.7066e-03; 59.9 %
+            [Mach = 1.500017, NRiemann = 2]
+step:17590; t = 2.9985e+01; dt = 1.7066e-03; 60.0 %
+            [Mach = 1.500017, NRiemann = 2]
+step:17640; t = 3.0070e+01; dt = 1.7066e-03; 60.1 %
+            [Mach = 1.500017, NRiemann = 2]
+step:17650; t = 3.0087e+01; dt = 1.7066e-03; 60.2 %
+            [Mach = 1.500018, NRiemann = 2]
+> Writing file #301 (dbl) to disk...
+  [ 1.00 sec ]
+step:17660; t = 3.0104e+01; dt = 1.7066e-03; 60.2 %
+            [Mach = 1.500018, NRiemann = 2]
+> Writing file #302 (dbl) to disk...
+  [ 1.00 sec ]
+step:17720; t = 3.0206e+01; dt = 1.7066e-03; 60.4 %
+            [Mach = 1.500018, NRiemann = 2]
+step:17730; t = 3.0224e+01; dt = 1.7066e-03; 60.4 %
+            [Mach = 1.500018, NRiemann = 2]
+step:17740; t = 3.0241e+01; dt = 1.7066e-03; 60.5 %
+            [Mach = 1.500018, NRiemann = 2]
+step:17750; t = 3.0258e+01; dt = 1.7066e-03; 60.5 %
+            [Mach = 1.500018, NRiemann = 2]
+step:17760; t = 3.0275e+01; dt = 1.7066e-03; 60.5 %
+            [Mach = 1.500018, NRiemann = 2]
+step:17770; t = 3.0292e+01; dt = 1.7066e-03; 60.6 %
+            [Mach = 1.500018, NRiemann = 2]
+step:17950; t = 3.0599e+01; dt = 1.7066e-03; 61.2 %
+> Writing file #306 (dbl) to disk...
+  [ 2.00 sec ]
+            [Mach = 1.500018, NRiemann = 2]
+step:17960; t = 3.0616e+01; dt = 1.7066e-03; 61.2 %
+            [Mach = 1.500018, NRiemann = 2]
+step:17970; t = 3.0633e+01; dt = 1.7066e-03; 61.3 %
+            [Mach = 1.500018, NRiemann = 2]
+step:18100; t = 3.0855e+01; dt = 1.7066e-03; 61.7 %
+            [Mach = 1.500017, NRiemann = 2]
+step:18110; t = 3.0872e+01; dt = 1.7066e-03; 61.7 %
+            [Mach = 1.500017, NRiemann = 2]
+step:18120; t = 3.0889e+01; dt = 1.7066e-03; 61.8 %
+            [Mach = 1.500017, NRiemann = 2]
+step:18160; t = 3.0957e+01; dt = 1.7066e-03; 61.9 %
+            [Mach = 1.500017, NRiemann = 2]
+step:18170; t = 3.0974e+01; dt = 1.7066e-03; 61.9 %
+            [Mach = 1.500017, NRiemann = 2]
+step:18180; t = 3.0992e+01; dt = 1.7066e-03; 62.0 %
+            [Mach = 1.500017, NRiemann = 2]
+step:18220; t = 3.1060e+01; dt = 1.7066e-03; 62.1 %
+            [Mach = 1.500016, NRiemann = 2]
+step:18230; t = 3.1077e+01; dt = 1.7066e-03; 62.2 %
+            [Mach = 1.500016, NRiemann = 2]
+step:18240; t = 3.1094e+01; dt = 1.7066e-03; 62.2 %
+            [Mach = 1.500016, NRiemann = 2]
+step:18280; t = 3.1162e+01; dt = 1.7066e-03; 62.3 %
+            [Mach = 1.500016, NRiemann = 2]
+step:18290; t = 3.1179e+01; dt = 1.7066e-03; 62.4 %
+            [Mach = 1.500015, NRiemann = 2]
+step:18300; t = 3.1196e+01; dt = 1.7066e-03; 62.4 %
+            [Mach = 1.500015, NRiemann = 2]
+> Writing file #312 (dbl) to disk...
+  [ 1.00 sec ]
+step:18310; t = 3.1213e+01; dt = 1.7066e-03; 62.4 %
+            [Mach = 1.500015, NRiemann = 2]
+step:18370; t = 3.1316e+01; dt = 1.7066e-03; 62.6 %
+            [Mach = 1.500015, NRiemann = 2]
+step:18380; t = 3.1333e+01; dt = 1.7066e-03; 62.7 %
+            [Mach = 1.500014, NRiemann = 2]
+step:18390; t = 3.1350e+01; dt = 1.7066e-03; 62.7 %
+            [Mach = 1.500014, NRiemann = 2]
+step:18400; t = 3.1367e+01; dt = 1.7066e-03; 62.7 %
+            [Mach = 1.500014, NRiemann = 2]
+step:18410; t = 3.1384e+01; dt = 1.7066e-03; 62.8 %
+            [Mach = 1.500014, NRiemann = 2]
+> Writing file #314 (dbl) to disk...
+  [ 2.00 sec ]
+step:18420; t = 3.1401e+01; dt = 1.7066e-03; 62.8 %
+            [Mach = 1.500014, NRiemann = 2]
+step:18430; t = 3.1418e+01; dt = 1.7066e-03; 62.8 %
+            [Mach = 1.500014, NRiemann = 2]
+step:18440; t = 3.1435e+01; dt = 1.7066e-03; 62.9 %
+            [Mach = 1.500014, NRiemann = 2]
+step:18450; t = 3.1452e+01; dt = 1.7066e-03; 62.9 %
+            [Mach = 1.500014, NRiemann = 2]
+step:18460; t = 3.1469e+01; dt = 1.7066e-03; 62.9 %
+            [Mach = 1.500013, NRiemann = 2]
+step:18470; t = 3.1486e+01; dt = 1.7066e-03; 63.0 %
+            [Mach = 1.500013, NRiemann = 2]
+> Writing file #315 (dbl) to disk...
+  [ 1.00 sec ]
+step:18480; t = 3.1504e+01; dt = 1.7066e-03; 63.0 %
+            [Mach = 1.500013, NRiemann = 2]
+step:18530; t = 3.1589e+01; dt = 1.7066e-03; 63.2 %
+            [Mach = 1.500012, NRiemann = 2]
+> Writing file #316 (dbl) to disk...
+  [ 1.00 sec ]
+step:18540; t = 3.1606e+01; dt = 1.7066e-03; 63.2 %
+            [Mach = 1.500012, NRiemann = 2]
+step:18550; t = 3.1623e+01; dt = 1.7066e-03; 63.2 %
+            [Mach = 1.500012, NRiemann = 2]
+step:18560; t = 3.1640e+01; dt = 1.7066e-03; 63.3 %
+            [Mach = 1.500012, NRiemann = 2]
+> Writing file #317 (dbl) to disk...
+  [ 1.00 sec ]
+step:18600; t = 3.1708e+01; dt = 1.7066e-03; 63.4 %
+            [Mach = 1.500011, NRiemann = 2]
+step:18610; t = 3.1725e+01; dt = 1.7066e-03; 63.5 %
+            [Mach = 1.500011, NRiemann = 2]

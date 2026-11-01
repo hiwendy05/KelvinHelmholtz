@@ -15,6 +15,7 @@
 #define  ENTROPY_SWITCH                 NO
 #define  RADIATION                      NO
 #define  DIVB_CONTROL                   CONSTRAINED_TRANSPORT
+#define  CT_EMF_AVERAGE                 UCT_CONTACT
 
 /* -- user-defined parameters (labels) -- */
 

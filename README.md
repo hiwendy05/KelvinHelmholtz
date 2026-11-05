@@ -1,4 +1,3 @@
-#Data and analysis files from 2026 SRIM project, Magnetic field growth via KHI in Binary Neutron Star Mergers.
-Wendy Chang, supervised by Loren Held (DAMTP, Cambridge)
-
-This is my first time trying to use GitHub so files might not be optimally organised.
+#Data and analysis files from the project: Magnetic field growth via Kelvin Helmholtz Instability in Binary Neutron Star mergers.
+This project was done as part of my 2026 Summer research intern at the Department of Applied Mathematics and Theoretical Physics, University of Cambridge.
+Wendy Chang, supervised by Loren Held (DAMTP, University of Cambridge)
